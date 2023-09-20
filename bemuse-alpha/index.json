@@ -155,7 +155,7 @@
           "duration": 127.87644787644788,
           "scratch": true,
           "keys": "7K",
-          "file": "_A.bms"
+          "file": "A.bms"
         },
         {
           "md5": "6d5551cd258014b8d3712b239aab7058",
@@ -180,7 +180,7 @@
           "duration": 127.87644787644788,
           "scratch": true,
           "keys": "7K",
-          "file": "_H.bms"
+          "file": "H.bms"
         },
         {
           "md5": "7433c001b7ddb2192e83ced34a7cd053",
@@ -205,7 +205,7 @@
           "duration": 127.87644787644788,
           "scratch": true,
           "keys": "7K",
-          "file": "_N.bms"
+          "file": "N.bms"
         }
       ],
       "title": "Eternal Adventure",
@@ -502,7 +502,7 @@
           "duration": 100.81521739130436,
           "scratch": true,
           "keys": "7K",
-          "file": "_SPA.bms"
+          "file": "SPA.bms"
         },
         {
           "md5": "0a01e850e54a8af4723a8b8d4c114cad",
@@ -525,7 +525,7 @@
           "duration": 100.81521739130436,
           "scratch": true,
           "keys": "7K",
-          "file": "_SPH.bms"
+          "file": "SPH.bms"
         },
         {
           "md5": "678a55676a1469b5de1057b1de6ea1ca",
@@ -548,7 +548,7 @@
           "duration": 100.81521739130436,
           "scratch": true,
           "keys": "7K",
-          "file": "_SPN.bms"
+          "file": "SPN.bms"
         }
       ],
       "title": "DDD",
