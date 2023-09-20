@@ -1,0 +1,64 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "112db3ac028acb7464609f9b309ecaf5",
+      "info": {
+        "title": "only my railgun",
+        "artist": "fripside",
+        "genre": "Ani song",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 8
+      },
+      "noteCount": 806,
+      "bpm": {
+        "init": 143,
+        "min": 143,
+        "median": 143,
+        "max": 143
+      },
+      "duration": 90.41958041958043,
+      "scratch": true,
+      "keys": "7K",
+      "file": "railgun7.bml"
+    },
+    {
+      "md5": "4780a27a7245dfb693c17a2d9e6cbe41",
+      "info": {
+        "title": "only my railgun",
+        "artist": "fripside",
+        "genre": "Ani song",
+        "subtitles": [],
+        "subartists": [
+          "obj: BMS Chart Master"
+        ],
+        "difficulty": 5,
+        "level": 11
+      },
+      "noteCount": 1048,
+      "bpm": {
+        "init": 143,
+        "min": 143,
+        "median": 143,
+        "max": 143
+      },
+      "duration": 90.41958041958043,
+      "scratch": true,
+      "keys": "7K",
+      "file": "railgun†.bml"
+    }
+  ],
+  "title": "only my railgun",
+  "artist": "fripside",
+  "genre": "Ani song",
+  "bpm": 143,
+  "replaygain": "-14.26 dB",
+  "preview_offset": 57.902,
+  "preview_url": "bemuse-data/preview.mp3",
+  "readme": "README.md",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
+  "video_url": "bemuse-data/bga.mp4",
+  "video_offset": 3.356
+}
