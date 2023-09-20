@@ -1,0 +1,91 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "f388a9edf5fdf0950964ac06eac1e0d4",
+      "info": {
+        "title": "Eternal Adventure",
+        "artist": "YuKa feat.IA",
+        "genre": "J-POP+",
+        "subtitles": [
+          "Another"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 2228,
+      "bpm": {
+        "init": 259,
+        "min": 259,
+        "median": 259,
+        "max": 259
+      },
+      "duration": 127.87644787644788,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_A.bms"
+    },
+    {
+      "md5": "6d5551cd258014b8d3712b239aab7058",
+      "info": {
+        "title": "Eternal Adventure",
+        "artist": "YuKa feat.IA",
+        "genre": "J-POP+",
+        "subtitles": [
+          "Hyper"
+        ],
+        "subartists": [],
+        "difficulty": 3,
+        "level": 10
+      },
+      "noteCount": 1295,
+      "bpm": {
+        "init": 259,
+        "min": 259,
+        "median": 259,
+        "max": 259
+      },
+      "duration": 127.87644787644788,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_H.bms"
+    },
+    {
+      "md5": "7433c001b7ddb2192e83ced34a7cd053",
+      "info": {
+        "title": "Eternal Adventure",
+        "artist": "YuKa feat.IA",
+        "genre": "J-POP+",
+        "subtitles": [
+          "Normal"
+        ],
+        "subartists": [],
+        "difficulty": 2,
+        "level": 6
+      },
+      "noteCount": 714,
+      "bpm": {
+        "init": 259,
+        "min": 259,
+        "median": 259,
+        "max": 259
+      },
+      "duration": 127.87644787644788,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_N.bms"
+    }
+  ],
+  "title": "Eternal Adventure",
+  "artist": "YuKa feat.IA",
+  "genre": "J-POP+",
+  "bpm": 259,
+  "replaygain": "-5.84 dB",
+  "preview_offset": 49.575,
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "https://soundcloud.com/yk61074/eternal-adventure",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=290&event=137",
+  "bmssearch_id": "_cHpl0kwQ-DQwd",
+  "readme": "README.md"
+}

@@ -1,0 +1,210 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "65c06aa369f1cbd31221cc98051f4c5d",
+      "info": {
+        "title": "ネイクド・ワイルド・パラノイド",
+        "artist": "kei_iwata + saaa",
+        "genre": "ニューエロティックムーディー",
+        "subtitles": [
+          "[DEVIL]"
+        ],
+        "subartists": [
+          "BGA:内村徹 / obj: BMS Chart Master"
+        ],
+        "difficulty": 5,
+        "level": 26
+      },
+      "noteCount": 3000,
+      "bpm": {
+        "init": 180,
+        "min": 180,
+        "median": 180,
+        "max": 180
+      },
+      "duration": 142.681831783731,
+      "scratch": true,
+      "keys": "7K",
+      "file": "@Devil.bms"
+    },
+    {
+      "md5": "fc63360d02056d19635e0b66c0f3d462",
+      "info": {
+        "title": "ネイクド・ワイルド・パラノイド",
+        "artist": "kei_iwata + saaa",
+        "genre": "ニューエロティックムーディー",
+        "subtitles": [
+          "[パラノイド]"
+        ],
+        "subartists": [
+          "BGA:内村徹"
+        ],
+        "difficulty": 5,
+        "level": 21
+      },
+      "noteCount": 2705,
+      "bpm": {
+        "init": 180,
+        "min": 180,
+        "median": 180,
+        "max": 180
+      },
+      "duration": 142.67366499052915,
+      "scratch": true,
+      "keys": "7K",
+      "file": "@Paranoid.bms"
+    },
+    {
+      "md5": "504356dfc48e8abf9b54a88b509b9999",
+      "info": {
+        "title": "ネイクド・ワイルド・パラノイド",
+        "artist": "kei_iwata + saaa",
+        "genre": "ニューエロティックムーディー",
+        "subtitles": [
+          "[SP ANOTHER]"
+        ],
+        "subartists": [
+          "BGA:内村徹"
+        ],
+        "difficulty": 4,
+        "level": 11
+      },
+      "noteCount": 1584,
+      "bpm": {
+        "init": 180,
+        "min": 180,
+        "median": 180,
+        "max": 180
+      },
+      "duration": 142.67366499052915,
+      "scratch": true,
+      "keys": "7K",
+      "file": "@SPA.bms"
+    },
+    {
+      "md5": "5da3018d94c69912d02d5326943af296",
+      "info": {
+        "title": "ネイクド・ワイルド・パラノイド",
+        "artist": "kei_iwata + saaa",
+        "genre": "ニューエロティックムーディー",
+        "subtitles": [
+          "[SP BEGINNER]"
+        ],
+        "subartists": [
+          "BGA:内村徹"
+        ],
+        "difficulty": 1,
+        "level": 3
+      },
+      "noteCount": 208,
+      "bpm": {
+        "init": 180,
+        "min": 180,
+        "median": 180,
+        "max": 180
+      },
+      "duration": 142.67366499052915,
+      "scratch": true,
+      "keys": "7K",
+      "file": "@SPB.bms"
+    },
+    {
+      "md5": "2faabba39629502c39567df611d0a318",
+      "info": {
+        "title": "ネイクド・ワイルド・パラノイド",
+        "artist": "kei_iwata + saaa",
+        "genre": "ニューエロティックムーディー",
+        "subtitles": [
+          "[SP HYPER]"
+        ],
+        "subartists": [
+          "BGA:内村徹"
+        ],
+        "difficulty": 3,
+        "level": 9
+      },
+      "noteCount": 887,
+      "bpm": {
+        "init": 180,
+        "min": 180,
+        "median": 180,
+        "max": 180
+      },
+      "duration": 142.67366499052915,
+      "scratch": true,
+      "keys": "7K",
+      "file": "@SPH.bms"
+    },
+    {
+      "md5": "fb7def20e0a22572f87f2c6690555e18",
+      "info": {
+        "title": "ネイクド・ワイルド・パラノイド",
+        "artist": "kei_iwata + saaa",
+        "genre": "ニューエロティックムーディー",
+        "subtitles": [
+          "[SP NORMAL]"
+        ],
+        "subartists": [
+          "BGA:内村徹"
+        ],
+        "difficulty": 2,
+        "level": 5
+      },
+      "noteCount": 561,
+      "bpm": {
+        "init": 180,
+        "min": 180,
+        "median": 180,
+        "max": 180
+      },
+      "duration": 142.67366499052915,
+      "scratch": true,
+      "keys": "7K",
+      "file": "@SPN.bms"
+    },
+    {
+      "md5": "0e0e1c6f0e2548216689ae6dbe67b7e7",
+      "info": {
+        "title": "ネイクド・ワイルド・パラノイド",
+        "artist": "kei_iwata + saaa",
+        "genre": "ニューエロティックムーディー",
+        "subtitles": [
+          "[夜王牙]"
+        ],
+        "subartists": [
+          "BGA:内村徹 / obj:saaa"
+        ],
+        "difficulty": 5,
+        "level": 14
+      },
+      "noteCount": 2212,
+      "bpm": {
+        "init": 180,
+        "min": 180,
+        "median": 180,
+        "max": 180
+      },
+      "duration": 142.67366499052915,
+      "scratch": true,
+      "keys": "7K",
+      "file": "@Yoruouga.bms"
+    }
+  ],
+  "title": "ネイクド・ワイルド・パラノイド",
+  "artist": "kei_iwata + saaa",
+  "genre": "ニューエロティックムーディー",
+  "bpm": 180,
+  "replaygain": "-11.43 dB",
+  "preview_offset": 87.666,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=140",
+  "youtube_url": "https://www.youtube.com/watch?v=77qxX4XfR5Q",
+  "bmssearch_id": "h-O0MczzAMjH7m",
+  "artist_url": "soundcloud.com/saaa_1",
+  "readme": "README.md",
+  "video_url": "bemuse-data/bga.mp4",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_offset": 1.125
+}
