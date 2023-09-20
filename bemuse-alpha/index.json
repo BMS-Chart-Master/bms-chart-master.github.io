@@ -15,6 +15,14 @@
     {
       "url": "https://bms-chart-master.github.io/bemuse-alpha/remix1/",
       "added": "2023-09-20"
+    },
+    {
+      "url": "https://bms-chart-master.github.io/bemuse-alpha/general1/",
+      "added": "2023-09-20"
+    },
+    {
+      "url": "https://bms-chart-master.github.io/bemuse-alpha/MayBeRemovedIfRequested/raligun/",
+      "added": "2023-09-20"
     }
   ],
   "songs": [
@@ -469,6 +477,164 @@
       "added": "2023-09-20T00:00:00.000Z",
       "id": "remix1",
       "path": "https://bms-chart-master.github.io/bemuse-alpha/remix1/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "38e7e0169e473063998ffa4d9742e629",
+          "info": {
+            "title": "DDD",
+            "artist": "はがね",
+            "genre": "Tech Fusion",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1399,
+          "bpm": {
+            "init": 138,
+            "min": 138,
+            "median": 138,
+            "max": 138
+          },
+          "duration": 100.81521739130436,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_SPA.bms"
+        },
+        {
+          "md5": "0a01e850e54a8af4723a8b8d4c114cad",
+          "info": {
+            "title": "DDD",
+            "artist": "はがね",
+            "genre": "Tech Fusion",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 10
+          },
+          "noteCount": 961,
+          "bpm": {
+            "init": 138,
+            "min": 138,
+            "median": 138,
+            "max": 138
+          },
+          "duration": 100.81521739130436,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_SPH.bms"
+        },
+        {
+          "md5": "678a55676a1469b5de1057b1de6ea1ca",
+          "info": {
+            "title": "DDD",
+            "artist": "はがね",
+            "genre": "Tech Fusion",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 7
+          },
+          "noteCount": 513,
+          "bpm": {
+            "init": 138,
+            "min": 138,
+            "median": 138,
+            "max": 138
+          },
+          "duration": 100.81521739130436,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_SPN.bms"
+        }
+      ],
+      "title": "DDD",
+      "artist": "はがね",
+      "genre": "Tech Fusion",
+      "bpm": 138,
+      "replaygain": "-7.85 dB",
+      "preview_offset": 29.565,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/steelplus/ddd",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=206&event=137",
+      "youtube_url": "https://www.youtube.com/watch?v=enFLi1toOvU",
+      "bmssearch_id": "Z1tDLIEVO9SYs1",
+      "readme": "README.md",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "added": "2023-09-20T00:00:00.000Z",
+      "id": "general1",
+      "path": "https://bms-chart-master.github.io/bemuse-alpha/general1/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "112db3ac028acb7464609f9b309ecaf5",
+          "info": {
+            "title": "only my railgun",
+            "artist": "fripside",
+            "genre": "Ani song",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 8
+          },
+          "noteCount": 806,
+          "bpm": {
+            "init": 143,
+            "min": 143,
+            "median": 143,
+            "max": 143
+          },
+          "duration": 90.41958041958043,
+          "scratch": true,
+          "keys": "7K",
+          "file": "railgun7.bml"
+        },
+        {
+          "md5": "4780a27a7245dfb693c17a2d9e6cbe41",
+          "info": {
+            "title": "only my railgun",
+            "artist": "fripside",
+            "genre": "Ani song",
+            "subtitles": [],
+            "subartists": [
+              "obj: BMS Chart Master"
+            ],
+            "difficulty": 5,
+            "level": 11
+          },
+          "noteCount": 1048,
+          "bpm": {
+            "init": 143,
+            "min": 143,
+            "median": 143,
+            "max": 143
+          },
+          "duration": 90.41958041958043,
+          "scratch": true,
+          "keys": "7K",
+          "file": "railgun†.bml"
+        }
+      ],
+      "title": "only my railgun",
+      "artist": "fripside",
+      "genre": "Ani song",
+      "bpm": 143,
+      "replaygain": "-14.26 dB",
+      "preview_offset": 57.902,
+      "preview_url": "bemuse-data/preview.mp3",
+      "readme": "README.md",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 3.356,
+      "added": "2023-09-20T00:00:00.000Z",
+      "id": "raligun",
+      "path": "https://bms-chart-master.github.io/bemuse-alpha/MayBeRemovedIfRequested/raligun/"
     }
   ]
 }
