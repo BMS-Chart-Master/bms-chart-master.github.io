@@ -11,6 +11,10 @@
     {
       "url": "https://bms-chart-master.github.io/bemuse-alpha/uouo1/",
       "added": "2023-09-20"
+    },
+    {
+      "url": "https://bms-chart-master.github.io/bemuse-alpha/remix1/",
+      "added": "2023-09-20"
     }
   ],
   "songs": [
@@ -423,6 +427,48 @@
       "added": "2023-09-20T00:00:00.000Z",
       "id": "uouo1",
       "path": "https://bms-chart-master.github.io/bemuse-alpha/uouo1/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "9540d49e83184e2d157c2e28ca317774",
+          "info": {
+            "title": "史上最大のQUESTION!",
+            "artist": "Arte Refact × Hakui Koyori remixed by BMS Chart Master",
+            "genre": "Alpha Remixes",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 10
+          },
+          "noteCount": 876,
+          "bpm": {
+            "init": 147,
+            "min": 147,
+            "median": 147,
+            "max": 147
+          },
+          "duration": 129.3877551020408,
+          "scratch": true,
+          "keys": "7K",
+          "file": "question.bmson"
+        }
+      ],
+      "title": "史上最大のQUESTION!",
+      "artist": "Arte Refact × Hakui Koyori remixed by BMS Chart Master",
+      "genre": "Alpha Remixes",
+      "bpm": 147,
+      "replaygain": "-12.17 dB",
+      "preview_offset": 41.632,
+      "preview_url": "bemuse-data/preview.mp3",
+      "readme": "README.md",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
+      "song_url": "https://soundcloud.com/bms-chart-master/question-bemuse-alpha-remix",
+      "added": "2023-09-20T00:00:00.000Z",
+      "id": "remix1",
+      "path": "https://bms-chart-master.github.io/bemuse-alpha/remix1/"
     }
   ]
 }
