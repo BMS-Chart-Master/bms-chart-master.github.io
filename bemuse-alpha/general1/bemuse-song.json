@@ -22,7 +22,7 @@
       "duration": 100.81521739130436,
       "scratch": true,
       "keys": "7K",
-      "file": "_SPA.bms"
+      "file": "SPA.bms"
     },
     {
       "md5": "0a01e850e54a8af4723a8b8d4c114cad",
@@ -45,7 +45,7 @@
       "duration": 100.81521739130436,
       "scratch": true,
       "keys": "7K",
-      "file": "_SPH.bms"
+      "file": "SPH.bms"
     },
     {
       "md5": "678a55676a1469b5de1057b1de6ea1ca",
@@ -68,7 +68,7 @@
       "duration": 100.81521739130436,
       "scratch": true,
       "keys": "7K",
-      "file": "_SPN.bms"
+      "file": "SPN.bms"
     }
   ],
   "title": "DDD",
