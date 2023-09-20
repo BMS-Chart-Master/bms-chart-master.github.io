@@ -1,0 +1,1 @@
+This is a remix of Hakui Koyori's "史上最大のQUESTION!". I've been wanting to remix a song for a while, and made this remix of 史上最大のQUESTION! a while back. Now, it's time to turn this into a Bemuse Alpha song. I hope you enjoy my remix, DJs!
