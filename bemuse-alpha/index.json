@@ -1,1 +1,113 @@
-{"urls":[],"songs":[]}
+{
+  "urls": [
+    {
+      "url": "https://bms-chart-master.github.io/bemuse-alpha/vocaloid1/",
+      "added": "2023-09-20"
+    }
+  ],
+  "songs": [
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "11ac0d6ca3025c1de21e35190b915e82",
+          "info": {
+            "title": "Fall to Sky",
+            "artist": "KIRA feat.初音ミク",
+            "genre": "Miku Transky",
+            "subtitles": [
+              "Another"
+            ],
+            "subartists": [
+              "BGA : ごまたまご"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1875,
+          "bpm": {
+            "init": 150,
+            "min": 150,
+            "median": 150,
+            "max": 150
+          },
+          "duration": 148.7,
+          "scratch": true,
+          "keys": "7K",
+          "file": "ftsky_a.bms"
+        },
+        {
+          "md5": "c7958d386c92c5fa9862e2221768d76f",
+          "info": {
+            "title": "Fall to Sky",
+            "artist": "KIRA feat. 初音ミク",
+            "genre": "Miku Transky",
+            "subtitles": [
+              "Hyper"
+            ],
+            "subartists": [
+              "BGA : ごまたまご"
+            ],
+            "difficulty": 3,
+            "level": 11
+          },
+          "noteCount": 1419,
+          "bpm": {
+            "init": 150,
+            "min": 150,
+            "median": 150,
+            "max": 150
+          },
+          "duration": 148.7,
+          "scratch": true,
+          "keys": "7K",
+          "file": "ftsky_h.bms"
+        },
+        {
+          "md5": "98f6f1c7107bb1b18c1e4e3b80c7f0e1",
+          "info": {
+            "title": "Fall to Sky",
+            "artist": "KIRA feat. 初音ミク",
+            "genre": "Miku Transky",
+            "subtitles": [
+              "Normal"
+            ],
+            "subartists": [
+              "BGA : ごまたまご"
+            ],
+            "difficulty": 0,
+            "level": 8
+          },
+          "noteCount": 913,
+          "bpm": {
+            "init": 150,
+            "min": 150,
+            "median": 150,
+            "max": 150
+          },
+          "duration": 148.7,
+          "scratch": true,
+          "keys": "7K",
+          "file": "ftsky_n.bms"
+        }
+      ],
+      "title": "Fall to Sky",
+      "artist": "KIRA feat.初音ミク",
+      "genre": "Miku Transky",
+      "bpm": 150,
+      "replaygain": "-9.1 dB",
+      "preview_offset": 90.4,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/kira0118/fall-to-sky",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=90&event=116",
+      "long_url": "https://www.nicovideo.jp/watch/sm32601795?via=thumb_watch&at=title&state=started&ref=vocadb.net&from=4",
+      "bmssearch_id": "zIDn2U9rwHCr76",
+      "artist_url": "https://www.nicovideo.jp/watch/sm32601795?via=thumb_watch&at=title&state=started&ref=vocadb.net&from=4",
+      "readme": "README.md",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "added": "2023-09-20T00:00:00.000Z",
+      "id": "vocaloid1",
+      "path": "https://bms-chart-master.github.io/bemuse-alpha/vocaloid1/"
+    }
+  ]
+}
