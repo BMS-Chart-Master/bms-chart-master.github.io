@@ -1,0 +1,120 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "29e6dc98d04c3d0f88d6141e32f0cca0",
+      "info": {
+        "title": "dilaton",
+        "artist": "TaW",
+        "genre": "TECH DANCE",
+        "subtitles": [
+          "[NORMAL]"
+        ],
+        "subartists": [],
+        "difficulty": 2,
+        "level": 4
+      },
+      "noteCount": 389,
+      "bpm": {
+        "init": 140,
+        "min": 140,
+        "median": 140,
+        "max": 140
+      },
+      "duration": 124.92857142857142,
+      "scratch": true,
+      "keys": "7K",
+      "file": "02_normal.bms"
+    },
+    {
+      "md5": "bd962ae051538ac36368b0e02ccf4230",
+      "info": {
+        "title": "dilaton",
+        "artist": "TaW",
+        "genre": "TECH DANCE",
+        "subtitles": [
+          "[HYPER]"
+        ],
+        "subartists": [],
+        "difficulty": 3,
+        "level": 8
+      },
+      "noteCount": 710,
+      "bpm": {
+        "init": 140,
+        "min": 140,
+        "median": 140,
+        "max": 140
+      },
+      "duration": 124.92857142857142,
+      "scratch": true,
+      "keys": "7K",
+      "file": "03_hyper.bms"
+    },
+    {
+      "md5": "141bd0cf10a55841b31cc8bd92e8e838",
+      "info": {
+        "title": "dilaton",
+        "artist": "TaW",
+        "genre": "TECH DANCE",
+        "subtitles": [
+          "[ANOTHER]"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 10
+      },
+      "noteCount": 1237,
+      "bpm": {
+        "init": 140,
+        "min": 140,
+        "median": 140,
+        "max": 140
+      },
+      "duration": 124.92857142857142,
+      "scratch": true,
+      "keys": "7K",
+      "file": "04_another.bms"
+    },
+    {
+      "md5": "5475523fe4a485a3b89ccd02fb734c20",
+      "info": {
+        "title": "dilaton",
+        "artist": "TaW",
+        "genre": "TECH DANCE",
+        "subtitles": [
+          "[INSANE]"
+        ],
+        "subartists": [],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 1617,
+      "bpm": {
+        "init": 140,
+        "min": 140,
+        "median": 140,
+        "max": 140
+      },
+      "duration": 124.92857142857142,
+      "scratch": true,
+      "keys": "7K",
+      "file": "05_insane.bms"
+    }
+  ],
+  "title": "dilaton",
+  "artist": "TaW",
+  "genre": "TECH DANCE",
+  "bpm": 140,
+  "replaygain": "-8.13 dB",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "video_offset": 1.714,
+  "preview_offset": 69.857,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bms_url": "https://pupuly.nekokan.dyndns.info/bms/v/253",
+  "bmssearch_id": "uYpWKOaL9TKuFF",
+  "artist_url": "https://tawminus50.wixsite.com/cite",
+  "readme": "README.md"
+}

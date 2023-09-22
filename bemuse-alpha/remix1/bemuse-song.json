@@ -35,5 +35,7 @@
   "readme": "README.md",
   "back_image_url": "bemuse-data/back_image.jpg",
   "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
-  "song_url": "https://soundcloud.com/bms-chart-master/question-bemuse-alpha-remix"
+  "song_url": "https://soundcloud.com/bms-chart-master/question-bemuse-alpha-remix",
+  "video_url": "bemuse-data/bga.mp4",
+  "video_offset": 1.428
 }
