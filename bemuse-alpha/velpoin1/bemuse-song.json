@@ -1,0 +1,89 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "01d38f0878f6366caf77a7c9857a00f0",
+      "info": {
+        "title": "Detective mind",
+        "artist": "Velpion",
+        "genre": "Trancecore",
+        "subtitles": [
+          "Another"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 12
+      },
+      "noteCount": 1580,
+      "bpm": {
+        "init": 175,
+        "min": 175,
+        "median": 175,
+        "max": 175
+      },
+      "duration": 100.11428571428571,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Detective mind[A].bmson"
+    },
+    {
+      "md5": "ca78ec37c6985caf1903a5768073ea7c",
+      "info": {
+        "title": "Detective mind",
+        "artist": "Velpion",
+        "genre": "Trancecore",
+        "subtitles": [
+          "Hyper"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 10
+      },
+      "noteCount": 985,
+      "bpm": {
+        "init": 175,
+        "min": 175,
+        "median": 175,
+        "max": 175
+      },
+      "duration": 100.11428571428571,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Detective mind[H].bmson"
+    },
+    {
+      "md5": "e5e688af77a49361ea9f7b0afe9a3dad",
+      "info": {
+        "title": "Detective mind",
+        "artist": "Velpion",
+        "genre": "Trancecore",
+        "subtitles": [
+          "Normal"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 7
+      },
+      "noteCount": 816,
+      "bpm": {
+        "init": 175,
+        "min": 175,
+        "median": 175,
+        "max": 175
+      },
+      "duration": 100.11428571428571,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Detective mind[N].bmson"
+    }
+  ],
+  "title": "Detective mind",
+  "artist": "Velpion",
+  "genre": "Trancecore",
+  "bpm": 175,
+  "replaygain": "-8.31 dB",
+  "preview_offset": 54.171,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bms_url": "4YMLpV-bmYS25w",
+  "readme": "README.md"
+}

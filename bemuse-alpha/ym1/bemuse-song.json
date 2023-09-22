@@ -1,0 +1,128 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "1f7af013d318c392a228f518ae292bb5",
+      "info": {
+        "title": "Vista",
+        "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+        "genre": "90's Digital J-Rock",
+        "subtitles": [
+          "7key Normal"
+        ],
+        "subartists": [
+          "Movie : Landscaper, retu"
+        ],
+        "difficulty": 2,
+        "level": 4
+      },
+      "noteCount": 403,
+      "bpm": {
+        "init": 132,
+        "min": 132,
+        "median": 132,
+        "max": 132
+      },
+      "duration": 114.43181818181817,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Vista_[7-4_Normal].bme"
+    },
+    {
+      "md5": "b296e2261be516dc056393e764eddde1",
+      "info": {
+        "title": "Vista",
+        "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+        "genre": "90's Digital J-Rock",
+        "subtitles": [
+          "7key Hyper"
+        ],
+        "subartists": [
+          "Movie : Landscaper, retu"
+        ],
+        "difficulty": 3,
+        "level": 8
+      },
+      "noteCount": 812,
+      "bpm": {
+        "init": 132,
+        "min": 132,
+        "median": 132,
+        "max": 132
+      },
+      "duration": 114.43181818181817,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Vista_[7-8_Hyper].bme"
+    },
+    {
+      "md5": "21e67f058b672b53b3a7eecff521e546",
+      "info": {
+        "title": "Vista",
+        "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+        "genre": "90's Digital J-Rock",
+        "subtitles": [
+          "7key Another"
+        ],
+        "subartists": [
+          "Movie : Landscaper, retu"
+        ],
+        "difficulty": 4,
+        "level": 10
+      },
+      "noteCount": 1128,
+      "bpm": {
+        "init": 132,
+        "min": 132,
+        "median": 132,
+        "max": 132
+      },
+      "duration": 114.43181818181817,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Vista_[7-A_Another].bme"
+    },
+    {
+      "md5": "3a8800990f6d97ee0f0367b255def75a",
+      "info": {
+        "title": "Vista",
+        "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+        "genre": "90's Digital J-Rock",
+        "subtitles": [
+          "7key Insane"
+        ],
+        "subartists": [
+          "Movie : Landscaper, retu / obj: BMS Chart Master"
+        ],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 1387,
+      "bpm": {
+        "init": 132,
+        "min": 132,
+        "median": 132,
+        "max": 132
+      },
+      "duration": 114.43181818181817,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Vista_[7-E_Insane].bme"
+    }
+  ],
+  "title": "Vista",
+  "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+  "genre": "90's Digital J-Rock",
+  "bpm": 132,
+  "replaygain": "-10.41 dB",
+  "preview_offset": 62.272,
+  "preview_url": "bemuse-data/preview.mp3",
+  "youtube_url": "https://www.youtube.com/watch?v=FbDwRMaUwBU",
+  "readme": "README.md",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=476&event=140",
+  "bmssearch_id": "VRKw950stM4rhc",
+  "artist_url": "https://aliesrite.com/",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4"
+}

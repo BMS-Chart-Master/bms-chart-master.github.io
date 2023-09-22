@@ -1,0 +1,528 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "499f4c75f89f403b68735a50e1c42e83",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [
+          "[5K Aery Normal]"
+        ],
+        "subartists": [
+          "obj: ARAiN"
+        ],
+        "difficulty": 3,
+        "level": 16
+      },
+      "noteCount": 1621,
+      "bpm": {
+        "init": 202,
+        "min": 101,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 123.26732673267327,
+      "scratch": false,
+      "keys": "5K",
+      "file": "PUPA[5KNM].bms"
+    },
+    {
+      "md5": "64033798a2eca907949a9d65b609eac9",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし / obj:みっと",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [
+          "Butterfly"
+        ],
+        "subartists": [],
+        "difficulty": 5,
+        "level": 17
+      },
+      "noteCount": 2412,
+      "bpm": {
+        "init": 202,
+        "min": 101,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 123.26732673267327,
+      "scratch": true,
+      "keys": "7K",
+      "file": "PUPA[Butterfly]_Mitto.bme"
+    },
+    {
+      "md5": "284fd8fdf21f963359aca222b9872c92",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [
+          "[LAPITHER]"
+        ],
+        "subartists": [
+          "bga.HALLPBE.S / obj.LAPIS vs sne"
+        ],
+        "difficulty": 5,
+        "level": 8
+      },
+      "noteCount": 2054,
+      "bpm": {
+        "init": 202,
+        "min": 101,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 123.26732673267327,
+      "scratch": true,
+      "keys": "7K",
+      "file": "PUPA[LAPITHER]_bgafix.bml"
+    },
+    {
+      "md5": "e4d3caa4814e28a13d15291cf8b275ab",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし obj.m",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [
+          "LUNATIC"
+        ],
+        "subartists": [],
+        "difficulty": 5,
+        "level": 15
+      },
+      "noteCount": 3000,
+      "bpm": {
+        "init": 202,
+        "min": 101,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 123.26732673267327,
+      "scratch": true,
+      "keys": "7K",
+      "file": "PUPA[LUNATIC].bml"
+    },
+    {
+      "md5": "61c41e8aabc8553e669bd2b3fa9b84ca",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし obj.m",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [
+          "metamorphosis"
+        ],
+        "subartists": [],
+        "difficulty": 5,
+        "level": 7
+      },
+      "noteCount": 2345,
+      "bpm": {
+        "init": 202,
+        "min": 101,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 123.26732673267327,
+      "scratch": true,
+      "keys": "7K",
+      "file": "PUPA[metamorphosis].bml"
+    },
+    {
+      "md5": "b13005bcdb8522379c5ca7a96d41d3d6",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし / bga.HALLPBE.S / obj morio",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [
+          "morither"
+        ],
+        "subartists": [],
+        "difficulty": 5,
+        "level": 15
+      },
+      "noteCount": 2174,
+      "bpm": {
+        "init": 202,
+        "min": 101,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 123.26732673267327,
+      "scratch": true,
+      "keys": "7K",
+      "file": "PUPA[Mo].bml"
+    },
+    {
+      "md5": "76d033c2c5dd5799fc183b569aa57bd7",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし / 奈那樹",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [
+          "NB"
+        ],
+        "subartists": [],
+        "difficulty": 5,
+        "level": 25
+      },
+      "noteCount": 2234,
+      "bpm": {
+        "init": 202,
+        "min": 101,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 123.26732673267327,
+      "scratch": true,
+      "keys": "7K",
+      "file": "PUPA[NB].bml"
+    },
+    {
+      "md5": "f963a340f1ce09bfc4dff68712e4ecdf",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 1628,
+      "bpm": {
+        "init": 202,
+        "min": 101,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 123.26732673267327,
+      "scratch": true,
+      "keys": "7K",
+      "file": "PUPA[SPA].bml"
+    },
+    {
+      "md5": "a58926bb25c5e5faee86316d7678d8ce",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [
+          "SARA"
+        ],
+        "subartists": [
+          "obj:十六皿夜"
+        ],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 1814,
+      "bpm": {
+        "init": 202,
+        "min": 101,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 125.64356435643563,
+      "scratch": true,
+      "keys": "7K",
+      "file": "PUPA[SPA]_BGA_izayoi_yoisarather.bml"
+    },
+    {
+      "md5": "e3ee2fff29eeaadc4ce6bea8a2b743f2",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [],
+        "subartists": [
+          "obj:Takeshita"
+        ],
+        "difficulty": 1,
+        "level": 5
+      },
+      "noteCount": 444,
+      "bpm": {
+        "init": 202,
+        "min": 101,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 123.26732673267327,
+      "scratch": true,
+      "keys": "7K",
+      "file": "PUPA[SPB].bme"
+    },
+    {
+      "md5": "20a354a7af4e6ce78ce0309024334d16",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし / obj : LindBlum",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [
+          "Destiny"
+        ],
+        "subartists": [],
+        "difficulty": 5,
+        "level": 25
+      },
+      "noteCount": 3490,
+      "bpm": {
+        "init": 202,
+        "min": 101,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 123.26732673267327,
+      "scratch": true,
+      "keys": "7K",
+      "file": "PUPA[SPDestiny].bml"
+    },
+    {
+      "md5": "b64c19e54a01b504394cbfcfad998e12",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし / Ds",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 13
+      },
+      "noteCount": 3126,
+      "bpm": {
+        "init": 202,
+        "min": 101,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 123.26732673267327,
+      "scratch": true,
+      "keys": "7K",
+      "file": "PUPA[SPDX].bme"
+    },
+    {
+      "md5": "6d969895ee55e7cf457fb0be59b8122d",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 2500,
+      "bpm": {
+        "init": 202,
+        "min": 101,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 123.26732673267327,
+      "scratch": true,
+      "keys": "7K",
+      "file": "PUPA[SPE].bms"
+    },
+    {
+      "md5": "05fef74e224ca5fef6d69719fa4a6a87",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [],
+        "subartists": [
+          "obj:Takeshita"
+        ],
+        "difficulty": 3,
+        "level": 11
+      },
+      "noteCount": 1312,
+      "bpm": {
+        "init": 202,
+        "min": 101,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 123.26732673267327,
+      "scratch": true,
+      "keys": "7K",
+      "file": "PUPA[SPH].bml"
+    },
+    {
+      "md5": "15ee7bfa6c9ae2da4d0c5c1156dc3a7c",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [],
+        "subartists": [
+          "obj:Takeshita"
+        ],
+        "difficulty": 2,
+        "level": 9
+      },
+      "noteCount": 734,
+      "bpm": {
+        "init": 202,
+        "min": 101,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 123.26732673267327,
+      "scratch": true,
+      "keys": "7K",
+      "file": "PUPA[SPN].bml"
+    },
+    {
+      "md5": "f91dff0e74bccc850e37a811391538ed",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [
+          "XERTHER"
+        ],
+        "subartists": [
+          "obj:xert*"
+        ],
+        "difficulty": 5,
+        "level": 15
+      },
+      "noteCount": 2160,
+      "bpm": {
+        "init": 202,
+        "min": 101,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 123.26732673267327,
+      "scratch": true,
+      "keys": "7K",
+      "file": "PUPA[XERTHER].bml"
+    },
+    {
+      "md5": "fdbb5b8a4fe3cda08d28800a7120d762",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [
+          "前立腺"
+        ],
+        "subartists": [
+          "obj:Maco-J"
+        ],
+        "difficulty": 5,
+        "level": 13
+      },
+      "noteCount": 2074,
+      "bpm": {
+        "init": 202,
+        "min": 101,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 123.26732673267327,
+      "scratch": true,
+      "keys": "7K",
+      "file": "PUPA[ZRS].bme"
+    },
+    {
+      "md5": "309308bdef9833a60f09989e26994fd0",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし / obj:Monsta",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 5,
+        "level": 26
+      },
+      "noteCount": 3639,
+      "bpm": {
+        "init": 202,
+        "min": 101,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 123.26732673267327,
+      "scratch": true,
+      "keys": "7K",
+      "file": "PUPA_mo.bml"
+    },
+    {
+      "md5": "257551dc9c39824510800ed4b5d70174",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [
+          "-EVOLUTION-"
+        ],
+        "subartists": [
+          "obj*たけお"
+        ],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 2234,
+      "bpm": {
+        "init": 202,
+        "min": 202,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 123.26732673267327,
+      "scratch": true,
+      "keys": "7K",
+      "file": "PUPA_REMAINER.bml"
+    },
+    {
+      "md5": "7a534c3a0a605063e8ef53b8d76dfc34",
+      "info": {
+        "title": "PUPA",
+        "artist": "モリモリあつし",
+        "genre": "HARD RENAISSANCE",
+        "subtitles": [
+          "morimori"
+        ],
+        "subartists": [
+          "bga.HALLPBE.S / obj:vy"
+        ],
+        "difficulty": 5,
+        "level": 20
+      },
+      "noteCount": 2570,
+      "bpm": {
+        "init": 202,
+        "min": 101,
+        "median": 202,
+        "max": 202
+      },
+      "duration": 123.26732673267327,
+      "scratch": true,
+      "keys": "7K",
+      "file": "PUPA_tokumori.bml"
+    }
+  ],
+  "title": "PUPA",
+  "artist": "モリモリあつし",
+  "genre": "HARD RENAISSANCE",
+  "bpm": 202,
+  "replaygain": "-6.48 dB",
+  "preview_offset": 85.544,
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "https://soundcloud.com/ats024/g2rpupabms",
+  "bms_url": "https://bms.cosmiccat.top/bms/BMS/Satellite%2B%E9%80%9A%E5%B8%B8%E9%9A%BE%E6%98%93%E5%BA%A6%2B%E5%8F%91%E7%8B%82%E9%9A%BE%E6%98%93%E5%BA%A6%2022.1.9/%E5%8D%95%E6%9B%B2%2022.1.9/",
+  "youtube_url": "https://www.youtube.com/watch?v=LFcKV42U3wA",
+  "bmssearch_id": "nZFSrZP2txhWnk",
+  "artist_url": "https://soundcloud.com/ats024",
+  "readme": "README.md",
+  "back_image_url": "bemuse-data/back_image.jpg",
+  "video_url": "bemuse-data/bga.mp4",
+  "video_offset": 0.297,
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg"
+}

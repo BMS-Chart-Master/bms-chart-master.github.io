@@ -1,0 +1,204 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "4023045d9134dfc47e953bc430e5ef07",
+      "info": {
+        "title": "Life is PIANO",
+        "artist": "Junk",
+        "genre": "Maiden House",
+        "subtitles": [
+          "Another"
+        ],
+        "subartists": [
+          "obj:kneas"
+        ],
+        "difficulty": 4,
+        "level": 11
+      },
+      "noteCount": 1565,
+      "bpm": {
+        "init": 133,
+        "min": 66.5,
+        "median": 133,
+        "max": 133
+      },
+      "duration": 124.51127819548873,
+      "scratch": true,
+      "keys": "7K",
+      "file": "another.bme"
+    },
+    {
+      "md5": "6668318ca133026e41eb41f9a6992a7d",
+      "info": {
+        "title": "Life is PIANO",
+        "artist": "Junk",
+        "genre": "Maiden House",
+        "subtitles": [
+          "HYPER"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 9
+      },
+      "noteCount": 948,
+      "bpm": {
+        "init": 133,
+        "min": 66.5,
+        "median": 133,
+        "max": 133
+      },
+      "duration": 124.51127819548873,
+      "scratch": true,
+      "keys": "7K",
+      "file": "hyper.bme"
+    },
+    {
+      "md5": "fe100f7877adee1ef88de03e0ed7a6a0",
+      "info": {
+        "title": "Life is PIANO",
+        "artist": "Junk",
+        "genre": "Maiden House",
+        "subtitles": [
+          "[Wander]"
+        ],
+        "subartists": [
+          "obj.쁪"
+        ],
+        "difficulty": 5,
+        "level": 22
+      },
+      "noteCount": 2985,
+      "bpm": {
+        "init": 133,
+        "min": 133,
+        "median": 133,
+        "max": 133
+      },
+      "duration": 124.51127819548873,
+      "scratch": true,
+      "keys": "7K",
+      "file": "lifeispiano_w1.bms"
+    },
+    {
+      "md5": "2650948d745fe2cbb990bd73824e6811",
+      "info": {
+        "title": "Life is PIANO",
+        "artist": "Junk",
+        "genre": "Maiden House",
+        "subtitles": [
+          "[Wander+]"
+        ],
+        "subartists": [
+          "obj.쁪"
+        ],
+        "difficulty": 5,
+        "level": 24
+      },
+      "noteCount": 3333,
+      "bpm": {
+        "init": 133,
+        "min": 133,
+        "median": 133,
+        "max": 133
+      },
+      "duration": 124.51127819548873,
+      "scratch": true,
+      "keys": "7K",
+      "file": "lifeispiano_w2.bms"
+    },
+    {
+      "md5": "d0c6b296a1a69e937e33fad0134f46cc",
+      "info": {
+        "title": "Life is PIANO",
+        "artist": "Junk",
+        "genre": "Maiden House",
+        "subtitles": [
+          "Normal"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 7
+      },
+      "noteCount": 478,
+      "bpm": {
+        "init": 133,
+        "min": 66.5,
+        "median": 133,
+        "max": 133
+      },
+      "duration": 124.51127819548873,
+      "scratch": true,
+      "keys": "7K",
+      "file": "normal.bme"
+    },
+    {
+      "md5": "fe665a21756a40f52cc1cbddaf291149",
+      "info": {
+        "title": "Life is PIANO",
+        "artist": "Junk",
+        "genre": "Maiden House",
+        "subtitles": [
+          "[Power is POWER]"
+        ],
+        "subartists": [
+          "obj.meta"
+        ],
+        "difficulty": 5,
+        "level": 18
+      },
+      "noteCount": 2400,
+      "bpm": {
+        "init": 133,
+        "min": 66.5,
+        "median": 133,
+        "max": 133
+      },
+      "duration": 124.51127819548873,
+      "scratch": true,
+      "keys": "7K",
+      "file": "power.bme"
+    },
+    {
+      "md5": "3171716540fd91660c35d4323a7edd99",
+      "info": {
+        "title": "Life is PIANO",
+        "artist": "Junk",
+        "genre": "Maiden House",
+        "subtitles": [
+          "Rea'ju"
+        ],
+        "subartists": [
+          "obj:kneas"
+        ],
+        "difficulty": 5,
+        "level": 15
+      },
+      "noteCount": 2104,
+      "bpm": {
+        "init": 133,
+        "min": 66.5,
+        "median": 133,
+        "max": 133
+      },
+      "duration": 124.51127819548873,
+      "scratch": true,
+      "keys": "7K",
+      "file": "reaju.bme"
+    }
+  ],
+  "title": "Life is PIANO",
+  "artist": "Junk",
+  "genre": "Maiden House",
+  "bpm": 133,
+  "replaygain": "-12.84 dB",
+  "preview_offset": 65.864,
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "https://soundcloud.com/junktrance518/g2r2018life-is-piano",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=123",
+  "youtube_url": "https://www.youtube.com/watch?v=uf9vXkvjRro",
+  "long_url": "https://gdbg.tv/release/2018-8-5",
+  "bmssearch_id": "2cq14dSck89hkw",
+  "artist_url": "https://soundcloud.com/junktrance518",
+  "readme": "README.md"
+}
