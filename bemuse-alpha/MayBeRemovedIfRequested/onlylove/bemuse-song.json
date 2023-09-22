@@ -1,0 +1,115 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "9d2f1ca2c087d955a040f675e9ecf562",
+      "info": {
+        "title": "Only Love (Bemuse Alpha Edit)",
+        "artist": "Shannon Hurley",
+        "genre": "Pop",
+        "subtitles": [
+          "Another"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 7
+      },
+      "noteCount": 478,
+      "bpm": {
+        "init": 125,
+        "min": 125,
+        "median": 125,
+        "max": 125
+      },
+      "duration": 132.48,
+      "scratch": true,
+      "keys": "7K",
+      "file": "another.bmson"
+    },
+    {
+      "md5": "d8dc44c6e90bdd471a503ed8d4eb8696",
+      "info": {
+        "title": "Only Love (Bemuse Alpha Edit)",
+        "artist": "Shannon Hurley",
+        "genre": "Pop",
+        "subtitles": [
+          "Beginner"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 1
+      },
+      "noteCount": 48,
+      "bpm": {
+        "init": 125,
+        "min": 125,
+        "median": 125,
+        "max": 125
+      },
+      "duration": 132.48,
+      "scratch": true,
+      "keys": "7K",
+      "file": "beginner.bmson"
+    },
+    {
+      "md5": "46457f12daa7f079726ca6dcba89e98c",
+      "info": {
+        "title": "Only Love (Bemuse Alpha Edit)",
+        "artist": "Shannon Hurley",
+        "genre": "Pop",
+        "subtitles": [
+          "Hyper"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 273,
+      "bpm": {
+        "init": 125,
+        "min": 125,
+        "median": 125,
+        "max": 125
+      },
+      "duration": 132.48,
+      "scratch": true,
+      "keys": "7K",
+      "file": "hyper.bmson"
+    },
+    {
+      "md5": "9a3cf23b754fc6521303c04e1271572f",
+      "info": {
+        "title": "Only Love (Bemuse Alpha Edit)",
+        "artist": "Shannon Hurley",
+        "genre": "Pop",
+        "subtitles": [
+          "Normal"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 4
+      },
+      "noteCount": 160,
+      "bpm": {
+        "init": 125,
+        "min": 125,
+        "median": 125,
+        "max": 125
+      },
+      "duration": 132.48,
+      "scratch": true,
+      "keys": "7K",
+      "file": "normal.bmson"
+    }
+  ],
+  "title": "Only Love (Bemuse Alpha Edit)",
+  "artist": "Shannon Hurley",
+  "genre": "Pop",
+  "bpm": 125,
+  "replaygain": "-2.57 dB",
+  "preview_offset": 62.88,
+  "preview_url": "bemuse-data/preview.mp3",
+  "long_url": "https://soundcloud.com/shannonhurley/only-love-1",
+  "artist_url": "https://soundcloud.com/shannonhurley",
+  "readme": "README.md"
+}
