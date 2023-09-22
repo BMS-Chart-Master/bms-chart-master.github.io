@@ -23,6 +23,22 @@
     {
       "url": "https://bms-chart-master.github.io/bemuse-alpha/MayBeRemovedIfRequested/raligun/",
       "added": "2023-09-20"
+    },
+    {
+      "url": "https://bms-chart-master.github.io/bemuse-alpha/general2/",
+      "added": "2023-09-22"
+    },
+    {
+      "url": "https://bms-chart-master.github.io/bemuse-alpha/general3/",
+      "added": "2023-09-22"
+    },
+    {
+      "url": "https://bms-chart-master.github.io/bemuse-alpha/velpoin1/",
+      "added": "2023-09-22"
+    },
+    {
+      "url": "https://bms-chart-master.github.io/bemuse-alpha/ym1/",
+      "added": "2023-09-22"
     }
   ],
   "songs": [
@@ -635,6 +651,967 @@
       "added": "2023-09-20T00:00:00.000Z",
       "id": "raligun",
       "path": "https://bms-chart-master.github.io/bemuse-alpha/MayBeRemovedIfRequested/raligun/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "499f4c75f89f403b68735a50e1c42e83",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "[5K Aery Normal]"
+            ],
+            "subartists": [
+              "obj: ARAiN"
+            ],
+            "difficulty": 3,
+            "level": 16
+          },
+          "noteCount": 1621,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": false,
+          "keys": "5K",
+          "file": "PUPA[5KNM].bms"
+        },
+        {
+          "md5": "64033798a2eca907949a9d65b609eac9",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし / obj:みっと",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "Butterfly"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 17
+          },
+          "noteCount": 2412,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[Butterfly]_Mitto.bme"
+        },
+        {
+          "md5": "284fd8fdf21f963359aca222b9872c92",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "[LAPITHER]"
+            ],
+            "subartists": [
+              "bga.HALLPBE.S / obj.LAPIS vs sne"
+            ],
+            "difficulty": 5,
+            "level": 8
+          },
+          "noteCount": 2054,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[LAPITHER]_bgafix.bml"
+        },
+        {
+          "md5": "e4d3caa4814e28a13d15291cf8b275ab",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし obj.m",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "LUNATIC"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 15
+          },
+          "noteCount": 3000,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[LUNATIC].bml"
+        },
+        {
+          "md5": "61c41e8aabc8553e669bd2b3fa9b84ca",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし obj.m",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "metamorphosis"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 7
+          },
+          "noteCount": 2345,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[metamorphosis].bml"
+        },
+        {
+          "md5": "b13005bcdb8522379c5ca7a96d41d3d6",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし / bga.HALLPBE.S / obj morio",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "morither"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 15
+          },
+          "noteCount": 2174,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[Mo].bml"
+        },
+        {
+          "md5": "76d033c2c5dd5799fc183b569aa57bd7",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし / 奈那樹",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "NB"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 25
+          },
+          "noteCount": 2234,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[NB].bml"
+        },
+        {
+          "md5": "f963a340f1ce09bfc4dff68712e4ecdf",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1628,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[SPA].bml"
+        },
+        {
+          "md5": "a58926bb25c5e5faee86316d7678d8ce",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "SARA"
+            ],
+            "subartists": [
+              "obj:十六皿夜"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1814,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 125.64356435643563,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[SPA]_BGA_izayoi_yoisarather.bml"
+        },
+        {
+          "md5": "e3ee2fff29eeaadc4ce6bea8a2b743f2",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [],
+            "subartists": [
+              "obj:Takeshita"
+            ],
+            "difficulty": 1,
+            "level": 5
+          },
+          "noteCount": 444,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[SPB].bme"
+        },
+        {
+          "md5": "20a354a7af4e6ce78ce0309024334d16",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし / obj : LindBlum",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "Destiny"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 25
+          },
+          "noteCount": 3490,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[SPDestiny].bml"
+        },
+        {
+          "md5": "b64c19e54a01b504394cbfcfad998e12",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし / Ds",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 13
+          },
+          "noteCount": 3126,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[SPDX].bme"
+        },
+        {
+          "md5": "6d969895ee55e7cf457fb0be59b8122d",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 2500,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[SPE].bms"
+        },
+        {
+          "md5": "05fef74e224ca5fef6d69719fa4a6a87",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [],
+            "subartists": [
+              "obj:Takeshita"
+            ],
+            "difficulty": 3,
+            "level": 11
+          },
+          "noteCount": 1312,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[SPH].bml"
+        },
+        {
+          "md5": "15ee7bfa6c9ae2da4d0c5c1156dc3a7c",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [],
+            "subartists": [
+              "obj:Takeshita"
+            ],
+            "difficulty": 2,
+            "level": 9
+          },
+          "noteCount": 734,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[SPN].bml"
+        },
+        {
+          "md5": "f91dff0e74bccc850e37a811391538ed",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "XERTHER"
+            ],
+            "subartists": [
+              "obj:xert*"
+            ],
+            "difficulty": 5,
+            "level": 15
+          },
+          "noteCount": 2160,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[XERTHER].bml"
+        },
+        {
+          "md5": "fdbb5b8a4fe3cda08d28800a7120d762",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "前立腺"
+            ],
+            "subartists": [
+              "obj:Maco-J"
+            ],
+            "difficulty": 5,
+            "level": 13
+          },
+          "noteCount": 2074,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA[ZRS].bme"
+        },
+        {
+          "md5": "309308bdef9833a60f09989e26994fd0",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし / obj:Monsta",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 26
+          },
+          "noteCount": 3639,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA_mo.bml"
+        },
+        {
+          "md5": "257551dc9c39824510800ed4b5d70174",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "-EVOLUTION-"
+            ],
+            "subartists": [
+              "obj*たけお"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 2234,
+          "bpm": {
+            "init": 202,
+            "min": 202,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA_REMAINER.bml"
+        },
+        {
+          "md5": "7a534c3a0a605063e8ef53b8d76dfc34",
+          "info": {
+            "title": "PUPA",
+            "artist": "モリモリあつし",
+            "genre": "HARD RENAISSANCE",
+            "subtitles": [
+              "morimori"
+            ],
+            "subartists": [
+              "bga.HALLPBE.S / obj:vy"
+            ],
+            "difficulty": 5,
+            "level": 20
+          },
+          "noteCount": 2570,
+          "bpm": {
+            "init": 202,
+            "min": 101,
+            "median": 202,
+            "max": 202
+          },
+          "duration": 123.26732673267327,
+          "scratch": true,
+          "keys": "7K",
+          "file": "PUPA_tokumori.bml"
+        }
+      ],
+      "title": "PUPA",
+      "artist": "モリモリあつし",
+      "genre": "HARD RENAISSANCE",
+      "bpm": 202,
+      "replaygain": "-6.48 dB",
+      "preview_offset": 85.544,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/ats024/g2rpupabms",
+      "bms_url": "https://bms.cosmiccat.top/bms/BMS/Satellite%2B%E9%80%9A%E5%B8%B8%E9%9A%BE%E6%98%93%E5%BA%A6%2B%E5%8F%91%E7%8B%82%E9%9A%BE%E6%98%93%E5%BA%A6%2022.1.9/%E5%8D%95%E6%9B%B2%2022.1.9/",
+      "youtube_url": "https://www.youtube.com/watch?v=LFcKV42U3wA",
+      "bmssearch_id": "nZFSrZP2txhWnk",
+      "artist_url": "https://soundcloud.com/ats024",
+      "readme": "README.md",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 0.297,
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
+      "added": "2023-09-22T00:00:00.000Z",
+      "id": "general2",
+      "path": "https://bms-chart-master.github.io/bemuse-alpha/general2/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "4023045d9134dfc47e953bc430e5ef07",
+          "info": {
+            "title": "Life is PIANO",
+            "artist": "Junk",
+            "genre": "Maiden House",
+            "subtitles": [
+              "Another"
+            ],
+            "subartists": [
+              "obj:kneas"
+            ],
+            "difficulty": 4,
+            "level": 11
+          },
+          "noteCount": 1565,
+          "bpm": {
+            "init": 133,
+            "min": 66.5,
+            "median": 133,
+            "max": 133
+          },
+          "duration": 124.51127819548873,
+          "scratch": true,
+          "keys": "7K",
+          "file": "another.bme"
+        },
+        {
+          "md5": "6668318ca133026e41eb41f9a6992a7d",
+          "info": {
+            "title": "Life is PIANO",
+            "artist": "Junk",
+            "genre": "Maiden House",
+            "subtitles": [
+              "HYPER"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 9
+          },
+          "noteCount": 948,
+          "bpm": {
+            "init": 133,
+            "min": 66.5,
+            "median": 133,
+            "max": 133
+          },
+          "duration": 124.51127819548873,
+          "scratch": true,
+          "keys": "7K",
+          "file": "hyper.bme"
+        },
+        {
+          "md5": "fe100f7877adee1ef88de03e0ed7a6a0",
+          "info": {
+            "title": "Life is PIANO",
+            "artist": "Junk",
+            "genre": "Maiden House",
+            "subtitles": [
+              "[Wander]"
+            ],
+            "subartists": [
+              "obj.쁪"
+            ],
+            "difficulty": 5,
+            "level": 22
+          },
+          "noteCount": 2985,
+          "bpm": {
+            "init": 133,
+            "min": 133,
+            "median": 133,
+            "max": 133
+          },
+          "duration": 124.51127819548873,
+          "scratch": true,
+          "keys": "7K",
+          "file": "lifeispiano_w1.bms"
+        },
+        {
+          "md5": "2650948d745fe2cbb990bd73824e6811",
+          "info": {
+            "title": "Life is PIANO",
+            "artist": "Junk",
+            "genre": "Maiden House",
+            "subtitles": [
+              "[Wander+]"
+            ],
+            "subartists": [
+              "obj.쁪"
+            ],
+            "difficulty": 5,
+            "level": 24
+          },
+          "noteCount": 3333,
+          "bpm": {
+            "init": 133,
+            "min": 133,
+            "median": 133,
+            "max": 133
+          },
+          "duration": 124.51127819548873,
+          "scratch": true,
+          "keys": "7K",
+          "file": "lifeispiano_w2.bms"
+        },
+        {
+          "md5": "d0c6b296a1a69e937e33fad0134f46cc",
+          "info": {
+            "title": "Life is PIANO",
+            "artist": "Junk",
+            "genre": "Maiden House",
+            "subtitles": [
+              "Normal"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 7
+          },
+          "noteCount": 478,
+          "bpm": {
+            "init": 133,
+            "min": 66.5,
+            "median": 133,
+            "max": 133
+          },
+          "duration": 124.51127819548873,
+          "scratch": true,
+          "keys": "7K",
+          "file": "normal.bme"
+        },
+        {
+          "md5": "fe665a21756a40f52cc1cbddaf291149",
+          "info": {
+            "title": "Life is PIANO",
+            "artist": "Junk",
+            "genre": "Maiden House",
+            "subtitles": [
+              "[Power is POWER]"
+            ],
+            "subartists": [
+              "obj.meta"
+            ],
+            "difficulty": 5,
+            "level": 18
+          },
+          "noteCount": 2400,
+          "bpm": {
+            "init": 133,
+            "min": 66.5,
+            "median": 133,
+            "max": 133
+          },
+          "duration": 124.51127819548873,
+          "scratch": true,
+          "keys": "7K",
+          "file": "power.bme"
+        },
+        {
+          "md5": "3171716540fd91660c35d4323a7edd99",
+          "info": {
+            "title": "Life is PIANO",
+            "artist": "Junk",
+            "genre": "Maiden House",
+            "subtitles": [
+              "Rea'ju"
+            ],
+            "subartists": [
+              "obj:kneas"
+            ],
+            "difficulty": 5,
+            "level": 15
+          },
+          "noteCount": 2104,
+          "bpm": {
+            "init": 133,
+            "min": 66.5,
+            "median": 133,
+            "max": 133
+          },
+          "duration": 124.51127819548873,
+          "scratch": true,
+          "keys": "7K",
+          "file": "reaju.bme"
+        }
+      ],
+      "title": "Life is PIANO",
+      "artist": "Junk",
+      "genre": "Maiden House",
+      "bpm": 133,
+      "replaygain": "-12.84 dB",
+      "preview_offset": 65.864,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/junktrance518/g2r2018life-is-piano",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=123",
+      "youtube_url": "https://www.youtube.com/watch?v=uf9vXkvjRro",
+      "long_url": "https://gdbg.tv/release/2018-8-5",
+      "bmssearch_id": "2cq14dSck89hkw",
+      "artist_url": "https://soundcloud.com/junktrance518",
+      "readme": "README.md",
+      "added": "2023-09-22T00:00:00.000Z",
+      "id": "general3",
+      "path": "https://bms-chart-master.github.io/bemuse-alpha/general3/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "01d38f0878f6366caf77a7c9857a00f0",
+          "info": {
+            "title": "Detective mind",
+            "artist": "Velpion",
+            "genre": "Trancecore",
+            "subtitles": [
+              "Another"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 12
+          },
+          "noteCount": 1580,
+          "bpm": {
+            "init": 175,
+            "min": 175,
+            "median": 175,
+            "max": 175
+          },
+          "duration": 100.11428571428571,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Detective mind[A].bmson"
+        },
+        {
+          "md5": "ca78ec37c6985caf1903a5768073ea7c",
+          "info": {
+            "title": "Detective mind",
+            "artist": "Velpion",
+            "genre": "Trancecore",
+            "subtitles": [
+              "Hyper"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 10
+          },
+          "noteCount": 985,
+          "bpm": {
+            "init": 175,
+            "min": 175,
+            "median": 175,
+            "max": 175
+          },
+          "duration": 100.11428571428571,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Detective mind[H].bmson"
+        },
+        {
+          "md5": "e5e688af77a49361ea9f7b0afe9a3dad",
+          "info": {
+            "title": "Detective mind",
+            "artist": "Velpion",
+            "genre": "Trancecore",
+            "subtitles": [
+              "Normal"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 7
+          },
+          "noteCount": 816,
+          "bpm": {
+            "init": 175,
+            "min": 175,
+            "median": 175,
+            "max": 175
+          },
+          "duration": 100.11428571428571,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Detective mind[N].bmson"
+        }
+      ],
+      "title": "Detective mind",
+      "artist": "Velpion",
+      "genre": "Trancecore",
+      "bpm": 175,
+      "replaygain": "-8.31 dB",
+      "preview_offset": 54.171,
+      "preview_url": "bemuse-data/preview.mp3",
+      "bms_url": "4YMLpV-bmYS25w",
+      "readme": "README.md",
+      "added": "2023-09-22T00:00:00.000Z",
+      "id": "velpoin1",
+      "path": "https://bms-chart-master.github.io/bemuse-alpha/velpoin1/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "1f7af013d318c392a228f518ae292bb5",
+          "info": {
+            "title": "Vista",
+            "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+            "genre": "90's Digital J-Rock",
+            "subtitles": [
+              "7key Normal"
+            ],
+            "subartists": [
+              "Movie : Landscaper, retu"
+            ],
+            "difficulty": 2,
+            "level": 4
+          },
+          "noteCount": 403,
+          "bpm": {
+            "init": 132,
+            "min": 132,
+            "median": 132,
+            "max": 132
+          },
+          "duration": 114.43181818181817,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Vista_[7-4_Normal].bme"
+        },
+        {
+          "md5": "b296e2261be516dc056393e764eddde1",
+          "info": {
+            "title": "Vista",
+            "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+            "genre": "90's Digital J-Rock",
+            "subtitles": [
+              "7key Hyper"
+            ],
+            "subartists": [
+              "Movie : Landscaper, retu"
+            ],
+            "difficulty": 3,
+            "level": 8
+          },
+          "noteCount": 812,
+          "bpm": {
+            "init": 132,
+            "min": 132,
+            "median": 132,
+            "max": 132
+          },
+          "duration": 114.43181818181817,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Vista_[7-8_Hyper].bme"
+        },
+        {
+          "md5": "21e67f058b672b53b3a7eecff521e546",
+          "info": {
+            "title": "Vista",
+            "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+            "genre": "90's Digital J-Rock",
+            "subtitles": [
+              "7key Another"
+            ],
+            "subartists": [
+              "Movie : Landscaper, retu"
+            ],
+            "difficulty": 4,
+            "level": 10
+          },
+          "noteCount": 1128,
+          "bpm": {
+            "init": 132,
+            "min": 132,
+            "median": 132,
+            "max": 132
+          },
+          "duration": 114.43181818181817,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Vista_[7-A_Another].bme"
+        },
+        {
+          "md5": "3a8800990f6d97ee0f0367b255def75a",
+          "info": {
+            "title": "Vista",
+            "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+            "genre": "90's Digital J-Rock",
+            "subtitles": [
+              "7key Insane"
+            ],
+            "subartists": [
+              "Movie : Landscaper, retu / obj: BMS Chart Master"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 1387,
+          "bpm": {
+            "init": 132,
+            "min": 132,
+            "median": 132,
+            "max": 132
+          },
+          "duration": 114.43181818181817,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Vista_[7-E_Insane].bme"
+        }
+      ],
+      "title": "Vista",
+      "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+      "genre": "90's Digital J-Rock",
+      "bpm": 132,
+      "replaygain": "-10.41 dB",
+      "preview_offset": 62.272,
+      "preview_url": "bemuse-data/preview.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=FbDwRMaUwBU",
+      "readme": "README.md",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=476&event=140",
+      "bmssearch_id": "VRKw950stM4rhc",
+      "artist_url": "https://aliesrite.com/",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "added": "2023-09-22T00:00:00.000Z",
+      "id": "ym1",
+      "path": "https://bms-chart-master.github.io/bemuse-alpha/ym1/"
     }
   ]
 }
