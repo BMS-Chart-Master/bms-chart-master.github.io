@@ -1,0 +1,38 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "05a378356eb086210321416163892670",
+      "info": {
+        "title": "Tutorial",
+        "artist": "BMS Chart Master Guided by Watson Amelia",
+        "genre": "How to Play",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 0
+      },
+      "noteCount": 28,
+      "bpm": {
+        "init": 120,
+        "min": 120,
+        "median": 120,
+        "max": 120
+      },
+      "duration": 98,
+      "scratch": true,
+      "keys": "7K",
+      "file": "tutorial.bmson"
+    }
+  ],
+  "title": "Tutorial",
+  "artist": "BMS Chart Master Guided by Watson Amelia",
+  "genre": "How to Play",
+  "bpm": 120,
+  "replaygain": "-5.24 dB",
+  "preview_offset": 0,
+  "preview_url": "bemuse-data/preview.mp3",
+  "readme": "README.md",
+  "back_image_url": "bemuse-data/back_image.jpg",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg"
+}
