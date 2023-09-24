@@ -1,0 +1,107 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "fbfd4a93aa3e91e758d6a767bfc1e782",
+      "info": {
+        "title": "Re:End of a Dream",
+        "artist": "uma vs. モリモリあつし",
+        "genre": "Hard Renaissance",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 2290,
+      "bpm": {
+        "init": 212,
+        "min": 212,
+        "median": 212,
+        "max": 212
+      },
+      "duration": 140.5188679245283,
+      "scratch": true,
+      "keys": "7K",
+      "file": "7A.bms"
+    },
+    {
+      "md5": "9bd9b037433df8303d7fb3c4050c04dd",
+      "info": {
+        "title": "Re:End of a Dream",
+        "artist": "uma vs. モリモリあつし",
+        "genre": "Hard Renaissance",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 1,
+        "level": 5
+      },
+      "noteCount": 472,
+      "bpm": {
+        "init": 212,
+        "min": 212,
+        "median": 212,
+        "max": 212
+      },
+      "duration": 140.5188679245283,
+      "scratch": true,
+      "keys": "7K",
+      "file": "7B.bms"
+    },
+    {
+      "md5": "8b02205f82ec29a0cdb97af2d84ce7d9",
+      "info": {
+        "title": "Re:End of a Dream",
+        "artist": "uma vs. モリモリあつし",
+        "genre": "Hard Renaissance",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 3,
+        "level": 11
+      },
+      "noteCount": 1560,
+      "bpm": {
+        "init": 212,
+        "min": 212,
+        "median": 212,
+        "max": 212
+      },
+      "duration": 140.5188679245283,
+      "scratch": true,
+      "keys": "7K",
+      "file": "7H.bms"
+    },
+    {
+      "md5": "542948c468a23d19236e9df55839abca",
+      "info": {
+        "title": "Re:End of a Dream",
+        "artist": "uma vs. モリモリあつし",
+        "genre": "Hard Renaissance",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 2,
+        "level": 8
+      },
+      "noteCount": 826,
+      "bpm": {
+        "init": 212,
+        "min": 212,
+        "median": 212,
+        "max": 212
+      },
+      "duration": 140.5188679245283,
+      "scratch": true,
+      "keys": "7K",
+      "file": "7N.bms"
+    }
+  ],
+  "title": "Re:End of a Dream",
+  "artist": "uma vs. モリモリあつし",
+  "genre": "Hard Renaissance",
+  "bpm": 212,
+  "replaygain": "-11 dB",
+  "preview_offset": 63.962,
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "https://soundcloud.com/ats024/bofu2016-re-end-of-a-dream",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=543&event=110",
+  "readme": "README.md"
+}
