@@ -2026,6 +2026,150 @@
       "added": "2023-09-24T00:00:00.000Z",
       "id": "general5",
       "path": "https://bms-chart-master.github.io/bemuse-alpha/general5/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "99096b85a0a1386d85758bf9946b7a6f",
+          "info": {
+            "title": "SERIOUS ERROR",
+            "artist": "Laur",
+            "genre": "FRENCHCORE",
+            "subtitles": [
+              "ANOTHER"
+            ],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 11
+          },
+          "noteCount": 1375,
+          "bpm": {
+            "init": 240,
+            "min": 240,
+            "median": 240,
+            "max": 240
+          },
+          "duration": 129,
+          "scratch": true,
+          "keys": "7K",
+          "file": "ANOTHER.bms"
+        },
+        {
+          "md5": "2d94cfc14f3643b8fe4ad8986650a897",
+          "info": {
+            "title": "SERIOUS ERROR",
+            "artist": "Laur",
+            "genre": "FRENCHCORE",
+            "subtitles": [
+              "HYPER"
+            ],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 7
+          },
+          "noteCount": 612,
+          "bpm": {
+            "init": 240,
+            "min": 240,
+            "median": 240,
+            "max": 240
+          },
+          "duration": 129,
+          "scratch": true,
+          "keys": "7K",
+          "file": "HYPER.bms"
+        },
+        {
+          "md5": "d34dae6084a8d2e994c1598857a46a6f",
+          "info": {
+            "title": "SERIOUS ERROR",
+            "artist": "Laur",
+            "genre": "FRENCHCORE",
+            "subtitles": [
+              "INSANE"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 0
+          },
+          "noteCount": 2260,
+          "bpm": {
+            "init": 240,
+            "min": 240,
+            "median": 240,
+            "max": 240
+          },
+          "duration": 129,
+          "scratch": true,
+          "keys": "7K",
+          "file": "INSANE.bms"
+        },
+        {
+          "md5": "f794406aec0a192850d9e888ffbc6962",
+          "info": {
+            "title": "SERIOUS ERROR",
+            "artist": "Laur",
+            "genre": "FRENCHCORE",
+            "subtitles": [
+              "NORMAL"
+            ],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 5
+          },
+          "noteCount": 418,
+          "bpm": {
+            "init": 240,
+            "min": 240,
+            "median": 240,
+            "max": 240
+          },
+          "duration": 129,
+          "scratch": true,
+          "keys": "7K",
+          "file": "NORMAL.bms"
+        },
+        {
+          "md5": "1ffb361dba84307332f02a6f126faa2a",
+          "info": {
+            "title": "SERIOUS ERROR",
+            "artist": "Laur",
+            "genre": "FRENCHCORE",
+            "subtitles": [
+              "codes-XXX"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 0
+          },
+          "noteCount": 2873,
+          "bpm": {
+            "init": 240,
+            "min": 240,
+            "median": 240,
+            "max": 240
+          },
+          "duration": 129,
+          "scratch": true,
+          "keys": "7K",
+          "file": "XXX.bms"
+        }
+      ],
+      "title": "SERIOUS ERROR",
+      "artist": "Laur",
+      "genre": "FRENCHCORE",
+      "bpm": 240,
+      "replaygain": "-12.18 dB",
+      "preview_offset": 22,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/laur_10/bofu2016-laur-serious-error",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=266&event=110",
+      "bmssearch_id": "egYyR_S1hnpbuI",
+      "readme": "README.md",
+      "added": "2023-09-24T00:00:00.000Z",
+      "id": "tanoc1",
+      "path": "https://bms-chart-master.github.io/bemuse-alpha/tanoc1/"
     }
   ]
 }
