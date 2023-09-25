@@ -263,6 +263,33 @@
       "bemusepack_url": "bemuse-data/sound/metadata.json",
       "charts": [
         {
+          "md5": "30c61514fa2e9d977a200b274d3f77b7",
+          "info": {
+            "title": "ネイクド・ワイルド・パラノイド",
+            "artist": "kei_iwata + saaa",
+            "genre": "ニューエロティックムーディー",
+            "subtitles": [
+              "[5KEYS]"
+            ],
+            "subartists": [
+              "BGA:内村徹 / obj: BMS Chart Master"
+            ],
+            "difficulty": 4,
+            "level": 9
+          },
+          "noteCount": 1454,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 142.67366499052915,
+          "scratch": true,
+          "keys": "5K",
+          "file": "@5K.bms"
+        },
+        {
           "md5": "65c06aa369f1cbd31221cc98051f4c5d",
           "info": {
             "title": "ネイクド・ワイルド・パラノイド",
