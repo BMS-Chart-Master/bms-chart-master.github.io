@@ -1,0 +1,138 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "bad634dd7ef1e5b65c27180cc66890c3",
+      "info": {
+        "title": "Oblivion",
+        "artist": "ESTi",
+        "genre": "Dramatic Trance",
+        "subtitles": [
+          "ANOTHER"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 8
+      },
+      "noteCount": 624,
+      "bpm": {
+        "init": 141,
+        "min": 141,
+        "median": 141,
+        "max": 141
+      },
+      "duration": 120,
+      "scratch": true,
+      "keys": "7K",
+      "file": "OBLIVION_7a.bms"
+    },
+    {
+      "md5": "b6e7a4d9981b3b75173affd955dbb251",
+      "info": {
+        "title": "Oblivion",
+        "artist": "ESTi",
+        "genre": "Dramatic Trance",
+        "subtitles": [
+          "BLACK ANOTHER"
+        ],
+        "subartists": [],
+        "difficulty": 5,
+        "level": 10
+      },
+      "noteCount": 1142,
+      "bpm": {
+        "init": 141,
+        "min": 141,
+        "median": 141,
+        "max": 141
+      },
+      "duration": 120,
+      "scratch": true,
+      "keys": "7K",
+      "file": "OBLIVION_7ba.bms"
+    },
+    {
+      "md5": "1c95068ab40cc751e2e2b489b88b56f9",
+      "info": {
+        "title": "Oblivion",
+        "artist": "ESTi",
+        "genre": "Dramatic Trance",
+        "subtitles": [
+          "HYPER"
+        ],
+        "subartists": [],
+        "difficulty": 3,
+        "level": 6
+      },
+      "noteCount": 515,
+      "bpm": {
+        "init": 141,
+        "min": 141,
+        "median": 141,
+        "max": 141
+      },
+      "duration": 120,
+      "scratch": true,
+      "keys": "7K",
+      "file": "OBLIVION_7h.bms"
+    },
+    {
+      "md5": "503cdff3384375ccaa7c884b0abdc40b",
+      "info": {
+        "title": "Oblivion",
+        "artist": "ESTi",
+        "genre": "Dramatic Trance",
+        "subtitles": [
+          "NORMAL"
+        ],
+        "subartists": [],
+        "difficulty": 2,
+        "level": 4
+      },
+      "noteCount": 349,
+      "bpm": {
+        "init": 141,
+        "min": 141,
+        "median": 141,
+        "max": 141
+      },
+      "duration": 120,
+      "scratch": true,
+      "keys": "7K",
+      "file": "OBLIVION_7n.bms"
+    },
+    {
+      "md5": "8bbb30988eee277a5375ca5e6fb15a41",
+      "info": {
+        "title": "Oblivion",
+        "artist": "ESTi",
+        "genre": "Dramatic Trance",
+        "subtitles": [
+          "SC"
+        ],
+        "subartists": [],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 1619,
+      "bpm": {
+        "init": 141,
+        "min": 141,
+        "median": 141,
+        "max": 141
+      },
+      "duration": 120,
+      "scratch": true,
+      "keys": "7K",
+      "file": "OBLIVION_7sc.bms"
+    }
+  ],
+  "title": "Oblivion",
+  "artist": "ESTi",
+  "genre": "Dramatic Trance",
+  "bpm": 141,
+  "replaygain": "-12.08 dB",
+  "preview_offset": 72.34,
+  "preview_url": "bemuse-data/preview.mp3",
+  "readme": "README.md"
+}
