@@ -2,21 +2,21 @@
   "bemusepack_url": "bemuse-data/sound/metadata.json",
   "charts": [
     {
-      "md5": "7b373324a7e1a275931c9534acfcfc04",
+      "md5": "da51447122a49bf901814ff751188db2",
       "info": {
         "title": "Happily Ever After feat. Hatsune Miku",
         "artist": "MaiT",
         "genre": "Dubstep",
         "subtitles": [
-          "[ANOTHER]"
+          "[NORMAL]"
         ],
         "subartists": [
-          "lyrics: �_�{뾴, illust: Arang, obj: w"
+          "lyrics: �_�{뾴, illust: Arang, obj: MaiT"
         ],
-        "difficulty": 4,
-        "level": 11
+        "difficulty": 2,
+        "level": 4
       },
-      "noteCount": 1281,
+      "noteCount": 429,
       "bpm": {
         "init": 143,
         "min": 143,
@@ -26,7 +26,7 @@
       "duration": 129.44055944055944,
       "scratch": true,
       "keys": "7K",
-      "file": "_HEA_A.bms"
+      "file": "HEA (1).bms"
     },
     {
       "md5": "4f7a8dd1d7898c2b6506c9520d84b9de",
@@ -53,7 +53,7 @@
       "duration": 129.44055944055944,
       "scratch": true,
       "keys": "7K",
-      "file": "_HEA_B.bms"
+      "file": "HEA (2).bms"
     },
     {
       "md5": "890ea17c7e0f50430116cb118f4d1d4a",
@@ -80,7 +80,7 @@
       "duration": 129.44055944055944,
       "scratch": true,
       "keys": "7K",
-      "file": "_HEA_H.bms"
+      "file": "HEA (3).bms"
     },
     {
       "md5": "c6787448cae0d6e7252b654a94cd2cf7",
@@ -107,24 +107,24 @@
       "duration": 129.44055944055944,
       "scratch": true,
       "keys": "7K",
-      "file": "_HEA_LN.bms"
+      "file": "HEA (4).bms"
     },
     {
-      "md5": "da51447122a49bf901814ff751188db2",
+      "md5": "7b373324a7e1a275931c9534acfcfc04",
       "info": {
         "title": "Happily Ever After feat. Hatsune Miku",
         "artist": "MaiT",
         "genre": "Dubstep",
         "subtitles": [
-          "[NORMAL]"
+          "[ANOTHER]"
         ],
         "subartists": [
-          "lyrics: �_�{뾴, illust: Arang, obj: MaiT"
+          "lyrics: �_�{뾴, illust: Arang, obj: w"
         ],
-        "difficulty": 2,
-        "level": 4
+        "difficulty": 4,
+        "level": 11
       },
-      "noteCount": 429,
+      "noteCount": 1281,
       "bpm": {
         "init": 143,
         "min": 143,
@@ -134,7 +134,7 @@
       "duration": 129.44055944055944,
       "scratch": true,
       "keys": "7K",
-      "file": "_HEA_N.bms"
+      "file": "HEA.bms"
     }
   ],
   "title": "Happily Ever After feat. Hatsune Miku",
