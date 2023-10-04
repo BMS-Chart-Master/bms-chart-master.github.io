@@ -1,0 +1,145 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "61caa2020dc93f28e334a49356f0f90e",
+      "info": {
+        "title": "Dig Dug Dog",
+        "artist": "MiKaDo",
+        "genre": "HAPPY HARDCORE",
+        "subtitles": [
+          "[ANOTHER]"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 1193,
+      "bpm": {
+        "init": 180,
+        "min": 180,
+        "median": 180,
+        "max": 180
+      },
+      "duration": 98.66666666666667,
+      "scratch": true,
+      "keys": "7K",
+      "file": "SP_A.bms"
+    },
+    {
+      "md5": "744f4fd5d1afe695a2f2cf62dd825c3c",
+      "info": {
+        "title": "Dig Dug Dog",
+        "artist": "MiKaDo",
+        "genre": "HAPPY HARDCORE",
+        "subtitles": [
+          "[BEGINNER]"
+        ],
+        "subartists": [],
+        "difficulty": 1,
+        "level": 3
+      },
+      "noteCount": 260,
+      "bpm": {
+        "init": 180,
+        "min": 180,
+        "median": 180,
+        "max": 180
+      },
+      "duration": 98.66666666666667,
+      "scratch": true,
+      "keys": "7K",
+      "file": "SP_B.bms"
+    },
+    {
+      "md5": "e5b72405f4caea037553c69057c7b48c",
+      "info": {
+        "title": "Dig Dug Dog",
+        "artist": "MiKaDo",
+        "genre": "HAPPY HARDCORE",
+        "subtitles": [
+          "[HYPER]"
+        ],
+        "subartists": [],
+        "difficulty": 3,
+        "level": 9
+      },
+      "noteCount": 706,
+      "bpm": {
+        "init": 180,
+        "min": 180,
+        "median": 180,
+        "max": 180
+      },
+      "duration": 98.66666666666667,
+      "scratch": true,
+      "keys": "7K",
+      "file": "SP_H.bms"
+    },
+    {
+      "md5": "33808fc3ff3e8d13d286efde2a1c783a",
+      "info": {
+        "title": "Dig Dug Dog",
+        "artist": "MiKaDo",
+        "genre": "HAPPY HARDCORE",
+        "subtitles": [
+          "[INSANE]"
+        ],
+        "subartists": [],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 1580,
+      "bpm": {
+        "init": 180,
+        "min": 180,
+        "median": 180,
+        "max": 180
+      },
+      "duration": 98.66666666666667,
+      "scratch": true,
+      "keys": "7K",
+      "file": "SP_I.bms"
+    },
+    {
+      "md5": "c3dfb542f29082ae8248fd71217e059e",
+      "info": {
+        "title": "Dig Dug Dog",
+        "artist": "MiKaDo",
+        "genre": "HAPPY HARDCORE",
+        "subtitles": [
+          "[NORMAL]"
+        ],
+        "subartists": [],
+        "difficulty": 2,
+        "level": 6
+      },
+      "noteCount": 435,
+      "bpm": {
+        "init": 180,
+        "min": 180,
+        "median": 180,
+        "max": 180
+      },
+      "duration": 98.66666666666667,
+      "scratch": true,
+      "keys": "7K",
+      "file": "SP_N.bms"
+    }
+  ],
+  "title": "Dig Dug Dog",
+  "artist": "MiKaDo",
+  "genre": "HAPPY HARDCORE",
+  "bpm": 180,
+  "replaygain": "-8.6 dB",
+  "preview_offset": 32.666,
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "https://soundcloud.com/platinum_mkd/dig-dug-dog",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=84&event=142",
+  "youtube_url": "https://www.youtube.com/watch?v=flI_YAFKwjs",
+  "artist_url": "https://soundcloud.com/platinum_mkd",
+  "readme": "README.md",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4"
+}

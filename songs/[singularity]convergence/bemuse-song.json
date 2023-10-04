@@ -1,0 +1,235 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "ea3dcd2e9b13e7360c698fc9cfd2142f",
+      "info": {
+        "title": "걌껯걎",
+        "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+        "genre": "TRANSCENDENCE",
+        "subtitles": [
+          "[SP ANOTHER]"
+        ],
+        "subartists": [
+          "bms. Qyubey / mov. Siesphere / obj. tkqn14"
+        ],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 1734,
+      "bpm": {
+        "init": 212,
+        "min": 212,
+        "median": 212,
+        "max": 212
+      },
+      "duration": 139.81132075471697,
+      "scratch": true,
+      "keys": "7K",
+      "file": "chart1.bms"
+    },
+    {
+      "md5": "f874a92222b5298fce8469a2434da802",
+      "info": {
+        "title": "걌껯걎",
+        "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+        "genre": "TRANSCENDENCE",
+        "subtitles": [
+          "[SP BEGINNER]"
+        ],
+        "subartists": [
+          "bms. Qyubey / mov. Siesphere / obj. Seori"
+        ],
+        "difficulty": 1,
+        "level": 3
+      },
+      "noteCount": 294,
+      "bpm": {
+        "init": 212,
+        "min": 212,
+        "median": 212,
+        "max": 212
+      },
+      "duration": 139.81132075471697,
+      "scratch": true,
+      "keys": "7K",
+      "file": "chart2.bms"
+    },
+    {
+      "md5": "ea987f7d0674560451f19a97ea55ef4d",
+      "info": {
+        "title": "걌껯걎",
+        "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+        "genre": "TRANSCENDENCE",
+        "subtitles": [
+          "[Exosphere]"
+        ],
+        "subartists": [
+          "obj. Mary_Sue"
+        ],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 3030,
+      "bpm": {
+        "init": 212,
+        "min": 212,
+        "median": 212,
+        "max": 212
+      },
+      "duration": 139.81132075471697,
+      "scratch": true,
+      "keys": "7K",
+      "file": "chart3.bms"
+    },
+    {
+      "md5": "1f0f14b99c1e0540532942a44f79fe70",
+      "info": {
+        "title": "걌껯걎",
+        "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+        "genre": "TRANSCENDENCE",
+        "subtitles": [
+          "Hubble's Prophecy"
+        ],
+        "subartists": [
+          "bms. Qyubey / mov. Siesphere / obj. Seori & Mary_Sue"
+        ],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 3636,
+      "bpm": {
+        "init": 212,
+        "min": 212,
+        "median": 212,
+        "max": 212
+      },
+      "duration": 156.7924528301887,
+      "scratch": true,
+      "keys": "7K",
+      "file": "chart4.bms"
+    },
+    {
+      "md5": "fc38dc4c63f311a60b3c0593bd5613fc",
+      "info": {
+        "title": "걌껯걎",
+        "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+        "genre": "TRANSCENDENCE",
+        "subtitles": [
+          "[SP HYPER]"
+        ],
+        "subartists": [
+          "bms. Qyubey / mov. Siesphere / obj. tkqn14"
+        ],
+        "difficulty": 3,
+        "level": 10
+      },
+      "noteCount": 1078,
+      "bpm": {
+        "init": 212,
+        "min": 212,
+        "median": 212,
+        "max": 212
+      },
+      "duration": 139.81132075471697,
+      "scratch": true,
+      "keys": "7K",
+      "file": "chart5.bms"
+    },
+    {
+      "md5": "3583fba6f4bee38668a941d6f102edd0",
+      "info": {
+        "title": "걌껯걎",
+        "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+        "genre": "TRANSCENDENCE",
+        "subtitles": [
+          "[SP INSANE]"
+        ],
+        "subartists": [
+          "bms. Qyubey / mov. Siesphere / obj. tkqn14 & Seori"
+        ],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 2023,
+      "bpm": {
+        "init": 212,
+        "min": 212,
+        "median": 212,
+        "max": 212
+      },
+      "duration": 139.81132075471697,
+      "scratch": true,
+      "keys": "7K",
+      "file": "chart6.bms"
+    },
+    {
+      "md5": "d370debc492f547f0a3dbeff48f033e3",
+      "info": {
+        "title": "걌껯걎",
+        "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+        "genre": "TRANSCENDENCE",
+        "subtitles": [
+          "[Mesosphere]"
+        ],
+        "subartists": [
+          "bms. Qyubey / mov. Siesphere / obj. Seori"
+        ],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 2101,
+      "bpm": {
+        "init": 212,
+        "min": 212,
+        "median": 212,
+        "max": 212
+      },
+      "duration": 139.81132075471697,
+      "scratch": true,
+      "keys": "7K",
+      "file": "chart7.bms"
+    },
+    {
+      "md5": "2b61ac73e28f0acfa6c558204bbbfa5b",
+      "info": {
+        "title": "걌껯걎",
+        "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+        "genre": "TRANSCENDENCE",
+        "subtitles": [
+          "[SP NORMAL]"
+        ],
+        "subartists": [
+          "bms. Qyubey / mov. Siesphere / obj. Seori & tkqn14"
+        ],
+        "difficulty": 2,
+        "level": 7
+      },
+      "noteCount": 702,
+      "bpm": {
+        "init": 212,
+        "min": 212,
+        "median": 212,
+        "max": 212
+      },
+      "duration": 139.81132075471697,
+      "scratch": true,
+      "keys": "7K",
+      "file": "chart8.bms"
+    }
+  ],
+  "title": "Convergence",
+  "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+  "genre": "TRANSCENDENCE",
+  "bpm": 212,
+  "replaygain": "-8.04 dB",
+  "preview_offset": 101.886,
+  "preview_url": "bemuse-data/preview.mp3",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "video_offset": 3.396,
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=142",
+  "youtube_url": "https://www.youtube.com/watch?v=iUB32XQAwEE",
+  "readme": "README.md"
+}

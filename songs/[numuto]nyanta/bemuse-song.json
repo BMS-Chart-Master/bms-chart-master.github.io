@@ -1,0 +1,152 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "ceeacffee480024a08414d8ce4481efe",
+      "info": {
+        "title": "みけねこにゃん太",
+        "artist": "numuto feat.夏色花梨 / BGA:にょろも",
+        "genre": "童謡",
+        "subtitles": [
+          "[7Beginner]"
+        ],
+        "subartists": [
+          "obj:にょろも"
+        ],
+        "difficulty": 1,
+        "level": 2
+      },
+      "noteCount": 281,
+      "bpm": {
+        "init": 150,
+        "min": 150,
+        "median": 150,
+        "max": 150
+      },
+      "duration": 161.6,
+      "scratch": true,
+      "keys": "7K",
+      "file": "chart1.bms"
+    },
+    {
+      "md5": "cfc036427ea7b682f16c9f05fcedf372",
+      "info": {
+        "title": "みけねこにゃん太",
+        "artist": "numuto feat.夏色花梨 / BGA:にょろも",
+        "genre": "童謡",
+        "subtitles": [
+          "[7Normal]"
+        ],
+        "subartists": [
+          "obj:にょろも"
+        ],
+        "difficulty": 2,
+        "level": 6
+      },
+      "noteCount": 579,
+      "bpm": {
+        "init": 150,
+        "min": 150,
+        "median": 150,
+        "max": 150
+      },
+      "duration": 161.6,
+      "scratch": true,
+      "keys": "7K",
+      "file": "chart2.bms"
+    },
+    {
+      "md5": "7ebdabdcf32aec2ad222ce671cba6606",
+      "info": {
+        "title": "みけねこにゃん太",
+        "artist": "numuto feat.夏色花梨 / BGA:にょろも",
+        "genre": "童謡",
+        "subtitles": [
+          "[7Hyper]"
+        ],
+        "subartists": [
+          "obj:にょろも"
+        ],
+        "difficulty": 3,
+        "level": 9
+      },
+      "noteCount": 1366,
+      "bpm": {
+        "init": 150,
+        "min": 150,
+        "median": 150,
+        "max": 150
+      },
+      "duration": 161.6,
+      "scratch": true,
+      "keys": "7K",
+      "file": "chart3.bms"
+    },
+    {
+      "md5": "05e17fd773edc3660bc553e74d8e39d7",
+      "info": {
+        "title": "みけねこにゃん太",
+        "artist": "numuto feat.夏色花梨 / BGA:にょろも",
+        "genre": "童謡",
+        "subtitles": [
+          "[7Another]"
+        ],
+        "subartists": [
+          "obj:numuto"
+        ],
+        "difficulty": 4,
+        "level": 11
+      },
+      "noteCount": 1939,
+      "bpm": {
+        "init": 150,
+        "min": 150,
+        "median": 150,
+        "max": 150
+      },
+      "duration": 161.6,
+      "scratch": true,
+      "keys": "7K",
+      "file": "chart4.bms"
+    },
+    {
+      "md5": "6f9b4739d1d1db2352836d29689448f3",
+      "info": {
+        "title": "みけねこにゃん太",
+        "artist": "numuto feat.夏色花梨 / BGA:にょろも",
+        "genre": "童謡",
+        "subtitles": [
+          "[7Insane]"
+        ],
+        "subartists": [
+          "obj:にょろも"
+        ],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 2694,
+      "bpm": {
+        "init": 150,
+        "min": 150,
+        "median": 150,
+        "max": 150
+      },
+      "duration": 161.6,
+      "scratch": true,
+      "keys": "7K",
+      "file": "chart5.bms"
+    }
+  ],
+  "title": "みけねこにゃん太",
+  "artist": "numuto feat.夏色花梨",
+  "genre": "童謡",
+  "bpm": 150,
+  "replaygain": "-13.11 dB",
+  "preview_offset": 8.8,
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "https://soundcloud.com/kgisjhy3c6t6/bofnt",
+  "readme": "README.md",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=53&event=142",
+  "youtube_url": "https://www.youtube.com/watch?v=3pOH4f0dasU",
+  "artist_url": "https://soundcloud.com/kgisjhy3c6t6"
+}

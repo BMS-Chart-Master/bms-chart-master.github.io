@@ -1,0 +1,123 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "c81c614b408db0363d471dd18d9c0fd5",
+      "info": {
+        "title": "FINAL STRIKER!",
+        "artist": "litmus* feat. Conyabata",
+        "genre": "10's Electro Pop",
+        "subtitles": [
+          "[Another]"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 10
+      },
+      "noteCount": 1170,
+      "bpm": {
+        "init": 128,
+        "min": 128,
+        "median": 128,
+        "max": 128
+      },
+      "duration": 148.359375,
+      "scratch": true,
+      "keys": "7K",
+      "file": "litmus_finalstriker_7a.bms"
+    },
+    {
+      "md5": "ff08095ae0f299f32fa2a4196148253b",
+      "info": {
+        "title": "FINAL STRIKER!",
+        "artist": "litmus* feat. Conyabata",
+        "genre": "10's Electro Pop",
+        "subtitles": [
+          "[Beginner]"
+        ],
+        "subartists": [
+          "obj: BMS Chart Master"
+        ],
+        "difficulty": 1,
+        "level": 2
+      },
+      "noteCount": 139,
+      "bpm": {
+        "init": 128,
+        "min": 128,
+        "median": 128,
+        "max": 128
+      },
+      "duration": 148.359375,
+      "scratch": true,
+      "keys": "7K",
+      "file": "litmus_finalstriker_7b.bms"
+    },
+    {
+      "md5": "b1f849fed29e495e8115d71bdc8a57a0",
+      "info": {
+        "title": "FINAL STRIKER!",
+        "artist": "litmus* feat. Conyabata",
+        "genre": "10's Electro Pop",
+        "subtitles": [
+          "[Hyper]"
+        ],
+        "subartists": [],
+        "difficulty": 3,
+        "level": 6
+      },
+      "noteCount": 648,
+      "bpm": {
+        "init": 128,
+        "min": 128,
+        "median": 128,
+        "max": 128
+      },
+      "duration": 148.359375,
+      "scratch": true,
+      "keys": "7K",
+      "file": "litmus_finalstriker_7h.bms"
+    },
+    {
+      "md5": "9894156ca60477a7da2915fbbd3aa4ed",
+      "info": {
+        "title": "FINAL STRIKER!",
+        "artist": "litmus* feat. Conyabata",
+        "genre": "10's Electro Pop",
+        "subtitles": [
+          "[Normal]"
+        ],
+        "subartists": [],
+        "difficulty": 2,
+        "level": 3
+      },
+      "noteCount": 277,
+      "bpm": {
+        "init": 128,
+        "min": 128,
+        "median": 128,
+        "max": 128
+      },
+      "duration": 148.359375,
+      "scratch": true,
+      "keys": "7K",
+      "file": "litmus_finalstriker_7n.bms"
+    }
+  ],
+  "title": "FINAL STRIKER!",
+  "artist": "litmus* feat. Conyabata",
+  "genre": "10's Electro Pop",
+  "bpm": 128,
+  "replaygain": "-11.08 dB",
+  "preview_offset": 29.531,
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "https://soundcloud.com/litmus_star/final-striker",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=423&event=140",
+  "youtube_url": "https://www.youtube.com/watch?v=35Hly9Ijg9s",
+  "bmssearch_id": "7Yq__hM03xgx3I",
+  "artist_url": "https://soundcloud.com/litmus_star",
+  "readme": "README.md",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "back_image_url": "bemuse-data/back_image.jpg"
+}
