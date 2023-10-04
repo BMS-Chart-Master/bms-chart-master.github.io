@@ -67,6 +67,22 @@
     {
       "url": "https://bms-chart-master.github.io/bemuse-alpha/MayBeRemovedIfRequested/oblivion/",
       "added": "2023-09-27"
+    },
+    {
+      "url": "https://bms-chart-master.github.io/songs/[litmus]finalstriker/",
+      "added": "2023-10-04"
+    },
+    {
+      "url": "https://bms-chart-master.github.io/songs/[mikado]digdugdog/",
+      "added": "2023-10-04"
+    },
+    {
+      "url": "https://bms-chart-master.github.io/songs/[numuto]nyanta/",
+      "added": "2023-10-04"
+    },
+    {
+      "url": "https://bms-chart-master.github.io/songs/[singularity]convergence/",
+      "added": "2023-10-04"
     }
   ],
   "songs": [
@@ -2503,6 +2519,673 @@
       "added": "2023-09-27T00:00:00.000Z",
       "id": "oblivion",
       "path": "https://bms-chart-master.github.io/bemuse-alpha/MayBeRemovedIfRequested/oblivion/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "c81c614b408db0363d471dd18d9c0fd5",
+          "info": {
+            "title": "FINAL STRIKER!",
+            "artist": "litmus* feat. Conyabata",
+            "genre": "10's Electro Pop",
+            "subtitles": [
+              "[Another]"
+            ],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 10
+          },
+          "noteCount": 1170,
+          "bpm": {
+            "init": 128,
+            "min": 128,
+            "median": 128,
+            "max": 128
+          },
+          "duration": 148.359375,
+          "scratch": true,
+          "keys": "7K",
+          "file": "litmus_finalstriker_7a.bms"
+        },
+        {
+          "md5": "ff08095ae0f299f32fa2a4196148253b",
+          "info": {
+            "title": "FINAL STRIKER!",
+            "artist": "litmus* feat. Conyabata",
+            "genre": "10's Electro Pop",
+            "subtitles": [
+              "[Beginner]"
+            ],
+            "subartists": [
+              "obj: BMS Chart Master"
+            ],
+            "difficulty": 1,
+            "level": 2
+          },
+          "noteCount": 139,
+          "bpm": {
+            "init": 128,
+            "min": 128,
+            "median": 128,
+            "max": 128
+          },
+          "duration": 148.359375,
+          "scratch": true,
+          "keys": "7K",
+          "file": "litmus_finalstriker_7b.bms"
+        },
+        {
+          "md5": "b1f849fed29e495e8115d71bdc8a57a0",
+          "info": {
+            "title": "FINAL STRIKER!",
+            "artist": "litmus* feat. Conyabata",
+            "genre": "10's Electro Pop",
+            "subtitles": [
+              "[Hyper]"
+            ],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 6
+          },
+          "noteCount": 648,
+          "bpm": {
+            "init": 128,
+            "min": 128,
+            "median": 128,
+            "max": 128
+          },
+          "duration": 148.359375,
+          "scratch": true,
+          "keys": "7K",
+          "file": "litmus_finalstriker_7h.bms"
+        },
+        {
+          "md5": "9894156ca60477a7da2915fbbd3aa4ed",
+          "info": {
+            "title": "FINAL STRIKER!",
+            "artist": "litmus* feat. Conyabata",
+            "genre": "10's Electro Pop",
+            "subtitles": [
+              "[Normal]"
+            ],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 3
+          },
+          "noteCount": 277,
+          "bpm": {
+            "init": 128,
+            "min": 128,
+            "median": 128,
+            "max": 128
+          },
+          "duration": 148.359375,
+          "scratch": true,
+          "keys": "7K",
+          "file": "litmus_finalstriker_7n.bms"
+        }
+      ],
+      "title": "FINAL STRIKER!",
+      "artist": "litmus* feat. Conyabata",
+      "genre": "10's Electro Pop",
+      "bpm": 128,
+      "replaygain": "-11.08 dB",
+      "preview_offset": 29.531,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/litmus_star/final-striker",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=423&event=140",
+      "youtube_url": "https://www.youtube.com/watch?v=35Hly9Ijg9s",
+      "bmssearch_id": "7Yq__hM03xgx3I",
+      "artist_url": "https://soundcloud.com/litmus_star",
+      "readme": "README.md",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "added": "2023-10-04T00:00:00.000Z",
+      "id": "[litmus]finalstriker",
+      "path": "https://bms-chart-master.github.io/songs/[litmus]finalstriker/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "61caa2020dc93f28e334a49356f0f90e",
+          "info": {
+            "title": "Dig Dug Dog",
+            "artist": "MiKaDo",
+            "genre": "HAPPY HARDCORE",
+            "subtitles": [
+              "[ANOTHER]"
+            ],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1193,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 98.66666666666667,
+          "scratch": true,
+          "keys": "7K",
+          "file": "SP_A.bms"
+        },
+        {
+          "md5": "744f4fd5d1afe695a2f2cf62dd825c3c",
+          "info": {
+            "title": "Dig Dug Dog",
+            "artist": "MiKaDo",
+            "genre": "HAPPY HARDCORE",
+            "subtitles": [
+              "[BEGINNER]"
+            ],
+            "subartists": [],
+            "difficulty": 1,
+            "level": 3
+          },
+          "noteCount": 260,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 98.66666666666667,
+          "scratch": true,
+          "keys": "7K",
+          "file": "SP_B.bms"
+        },
+        {
+          "md5": "e5b72405f4caea037553c69057c7b48c",
+          "info": {
+            "title": "Dig Dug Dog",
+            "artist": "MiKaDo",
+            "genre": "HAPPY HARDCORE",
+            "subtitles": [
+              "[HYPER]"
+            ],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 9
+          },
+          "noteCount": 706,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 98.66666666666667,
+          "scratch": true,
+          "keys": "7K",
+          "file": "SP_H.bms"
+        },
+        {
+          "md5": "33808fc3ff3e8d13d286efde2a1c783a",
+          "info": {
+            "title": "Dig Dug Dog",
+            "artist": "MiKaDo",
+            "genre": "HAPPY HARDCORE",
+            "subtitles": [
+              "[INSANE]"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 1580,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 98.66666666666667,
+          "scratch": true,
+          "keys": "7K",
+          "file": "SP_I.bms"
+        },
+        {
+          "md5": "c3dfb542f29082ae8248fd71217e059e",
+          "info": {
+            "title": "Dig Dug Dog",
+            "artist": "MiKaDo",
+            "genre": "HAPPY HARDCORE",
+            "subtitles": [
+              "[NORMAL]"
+            ],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 6
+          },
+          "noteCount": 435,
+          "bpm": {
+            "init": 180,
+            "min": 180,
+            "median": 180,
+            "max": 180
+          },
+          "duration": 98.66666666666667,
+          "scratch": true,
+          "keys": "7K",
+          "file": "SP_N.bms"
+        }
+      ],
+      "title": "Dig Dug Dog",
+      "artist": "MiKaDo",
+      "genre": "HAPPY HARDCORE",
+      "bpm": 180,
+      "replaygain": "-8.6 dB",
+      "preview_offset": 32.666,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/platinum_mkd/dig-dug-dog",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=84&event=142",
+      "youtube_url": "https://www.youtube.com/watch?v=flI_YAFKwjs",
+      "artist_url": "https://soundcloud.com/platinum_mkd",
+      "readme": "README.md",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "added": "2023-10-04T00:00:00.000Z",
+      "id": "[mikado]digdugdog",
+      "path": "https://bms-chart-master.github.io/songs/[mikado]digdugdog/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "ceeacffee480024a08414d8ce4481efe",
+          "info": {
+            "title": "みけねこにゃん太",
+            "artist": "numuto feat.夏色花梨 / BGA:にょろも",
+            "genre": "童謡",
+            "subtitles": [
+              "[7Beginner]"
+            ],
+            "subartists": [
+              "obj:にょろも"
+            ],
+            "difficulty": 1,
+            "level": 2
+          },
+          "noteCount": 281,
+          "bpm": {
+            "init": 150,
+            "min": 150,
+            "median": 150,
+            "max": 150
+          },
+          "duration": 161.6,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart1.bms"
+        },
+        {
+          "md5": "cfc036427ea7b682f16c9f05fcedf372",
+          "info": {
+            "title": "みけねこにゃん太",
+            "artist": "numuto feat.夏色花梨 / BGA:にょろも",
+            "genre": "童謡",
+            "subtitles": [
+              "[7Normal]"
+            ],
+            "subartists": [
+              "obj:にょろも"
+            ],
+            "difficulty": 2,
+            "level": 6
+          },
+          "noteCount": 579,
+          "bpm": {
+            "init": 150,
+            "min": 150,
+            "median": 150,
+            "max": 150
+          },
+          "duration": 161.6,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart2.bms"
+        },
+        {
+          "md5": "7ebdabdcf32aec2ad222ce671cba6606",
+          "info": {
+            "title": "みけねこにゃん太",
+            "artist": "numuto feat.夏色花梨 / BGA:にょろも",
+            "genre": "童謡",
+            "subtitles": [
+              "[7Hyper]"
+            ],
+            "subartists": [
+              "obj:にょろも"
+            ],
+            "difficulty": 3,
+            "level": 9
+          },
+          "noteCount": 1366,
+          "bpm": {
+            "init": 150,
+            "min": 150,
+            "median": 150,
+            "max": 150
+          },
+          "duration": 161.6,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart3.bms"
+        },
+        {
+          "md5": "05e17fd773edc3660bc553e74d8e39d7",
+          "info": {
+            "title": "みけねこにゃん太",
+            "artist": "numuto feat.夏色花梨 / BGA:にょろも",
+            "genre": "童謡",
+            "subtitles": [
+              "[7Another]"
+            ],
+            "subartists": [
+              "obj:numuto"
+            ],
+            "difficulty": 4,
+            "level": 11
+          },
+          "noteCount": 1939,
+          "bpm": {
+            "init": 150,
+            "min": 150,
+            "median": 150,
+            "max": 150
+          },
+          "duration": 161.6,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart4.bms"
+        },
+        {
+          "md5": "6f9b4739d1d1db2352836d29689448f3",
+          "info": {
+            "title": "みけねこにゃん太",
+            "artist": "numuto feat.夏色花梨 / BGA:にょろも",
+            "genre": "童謡",
+            "subtitles": [
+              "[7Insane]"
+            ],
+            "subartists": [
+              "obj:にょろも"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 2694,
+          "bpm": {
+            "init": 150,
+            "min": 150,
+            "median": 150,
+            "max": 150
+          },
+          "duration": 161.6,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart5.bms"
+        }
+      ],
+      "title": "みけねこにゃん太",
+      "artist": "numuto feat.夏色花梨",
+      "genre": "童謡",
+      "bpm": 150,
+      "replaygain": "-13.11 dB",
+      "preview_offset": 8.8,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/kgisjhy3c6t6/bofnt",
+      "readme": "README.md",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=53&event=142",
+      "youtube_url": "https://www.youtube.com/watch?v=3pOH4f0dasU",
+      "artist_url": "https://soundcloud.com/kgisjhy3c6t6",
+      "added": "2023-10-04T00:00:00.000Z",
+      "id": "[numuto]nyanta",
+      "path": "https://bms-chart-master.github.io/songs/[numuto]nyanta/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "a0b9f78d2598e1f3206d6de768c7c7a5",
+          "info": {
+            "title": "Convergence",
+            "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+            "genre": "TRANSCENDENCE",
+            "subtitles": [
+              "[SP ANOTHER]"
+            ],
+            "subartists": [
+              "bms. Qyubey / mov. Siesphere / obj. tkqn14"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1734,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 139.81132075471697,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart1.bms"
+        },
+        {
+          "md5": "4955e1bb17915c741d6f794fb0a5344a",
+          "info": {
+            "title": "Convergence",
+            "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+            "genre": "TRANSCENDENCE",
+            "subtitles": [
+              "[SP BEGINNER]"
+            ],
+            "subartists": [
+              "bms. Qyubey / mov. Siesphere / obj. Seori"
+            ],
+            "difficulty": 1,
+            "level": 3
+          },
+          "noteCount": 294,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 139.81132075471697,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart2.bms"
+        },
+        {
+          "md5": "4d2d4e84efc51a68602f4c4e872e5a1c",
+          "info": {
+            "title": "Convergence",
+            "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+            "genre": "TRANSCENDENCE",
+            "subtitles": [
+              "[Exosphere]"
+            ],
+            "subartists": [
+              "obj. Mary_Sue"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 3030,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 139.81132075471697,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart3.bms"
+        },
+        {
+          "md5": "193862fc15a8141274bb90fe5ab88bf8",
+          "info": {
+            "title": "Convergence",
+            "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+            "genre": "TRANSCENDENCE",
+            "subtitles": [
+              "Hubble's Prophecy"
+            ],
+            "subartists": [
+              "bms. Qyubey / mov. Siesphere / obj. Seori & Mary_Sue"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 3636,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 156.7924528301887,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart4.bms"
+        },
+        {
+          "md5": "1e49935e8b9bee68190a0cd38cfe847f",
+          "info": {
+            "title": "Convergence",
+            "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+            "genre": "TRANSCENDENCE",
+            "subtitles": [
+              "[SP HYPER]"
+            ],
+            "subartists": [
+              "bms. Qyubey / mov. Siesphere / obj. tkqn14"
+            ],
+            "difficulty": 3,
+            "level": 10
+          },
+          "noteCount": 1078,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 139.81132075471697,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart5.bms"
+        },
+        {
+          "md5": "1b630b165d9abf976b602ece88e94888",
+          "info": {
+            "title": "Convergence",
+            "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+            "genre": "TRANSCENDENCE",
+            "subtitles": [
+              "[SP INSANE]"
+            ],
+            "subartists": [
+              "bms. Qyubey / mov. Siesphere / obj. tkqn14 & Seori"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 2023,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 139.81132075471697,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart6.bms"
+        },
+        {
+          "md5": "063a3aeecc049a0338fc9a6559a59616",
+          "info": {
+            "title": "Convergence",
+            "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+            "genre": "TRANSCENDENCE",
+            "subtitles": [
+              "[Mesosphere]"
+            ],
+            "subartists": [
+              "bms. Qyubey / mov. Siesphere / obj. Seori"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 2101,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 139.81132075471697,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart7.bms"
+        },
+        {
+          "md5": "cb872280605a1495d3575980d3f3523e",
+          "info": {
+            "title": "Convergence",
+            "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+            "genre": "TRANSCENDENCE",
+            "subtitles": [
+              "[SP NORMAL]"
+            ],
+            "subartists": [
+              "bms. Qyubey / mov. Siesphere / obj. Seori & tkqn14"
+            ],
+            "difficulty": 2,
+            "level": 7
+          },
+          "noteCount": 702,
+          "bpm": {
+            "init": 212,
+            "min": 212,
+            "median": 212,
+            "max": 212
+          },
+          "duration": 139.81132075471697,
+          "scratch": true,
+          "keys": "7K",
+          "file": "chart8.bms"
+        }
+      ],
+      "title": "Convergence",
+      "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON",
+      "genre": "TRANSCENDENCE",
+      "bpm": 212,
+      "replaygain": "-8.04 dB",
+      "preview_offset": 101.886,
+      "preview_url": "bemuse-data/preview.mp3",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 3.396,
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=142",
+      "youtube_url": "https://www.youtube.com/watch?v=iUB32XQAwEE",
+      "readme": "README.md",
+      "added": "2023-10-04T00:00:00.000Z",
+      "id": "[singularity]convergence",
+      "path": "https://bms-chart-master.github.io/songs/[singularity]convergence/"
     }
   ]
 }
