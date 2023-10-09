@@ -87,6 +87,10 @@
     {
       "url": "https://bms-chart-master.github.io/songs/[chilldive]catsrule/",
       "added": "2023-10-04"
+    },
+    {
+      "url": "https://bms-chart-master.github.io/songs/[saaa]morningloom/",
+      "added": "2023-10-09"
     }
   ],
   "songs": [
@@ -3364,6 +3368,181 @@
       "added": "2023-10-04T00:00:00.000Z",
       "id": "[chilldive]catsrule",
       "path": "https://bms-chart-master.github.io/songs/[chilldive]catsrule/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "509d3be74a45a8782373bcc7129932ae",
+          "info": {
+            "title": "MORNINGLOOM",
+            "artist": "saaa / BGA : すずあ",
+            "genre": "MORNING ROUTINE",
+            "subtitles": [
+              "[EXAM]"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 17
+          },
+          "noteCount": 2380,
+          "bpm": {
+            "init": 102,
+            "min": 102,
+            "median": 204,
+            "max": 204
+          },
+          "duration": 135.88235294117635,
+          "scratch": true,
+          "keys": "7K",
+          "file": "mg_EXAM.bms"
+        },
+        {
+          "md5": "b1c04d102bcf27b74a9257000f3f02cb",
+          "info": {
+            "title": "MORNINGLOOM",
+            "artist": "saaa / BGA : すずあ",
+            "genre": "MORNING ROUTINE",
+            "subtitles": [
+              "[GUIDANCE]"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 5
+          },
+          "noteCount": 1733,
+          "bpm": {
+            "init": 102,
+            "min": 102,
+            "median": 204,
+            "max": 204
+          },
+          "duration": 135.88235294117635,
+          "scratch": true,
+          "keys": "7K",
+          "file": "mg_GUIDANCE.bms"
+        },
+        {
+          "md5": "44c37cd5906a98b3a64ed9c093b27b85",
+          "info": {
+            "title": "MORNINGLOOM",
+            "artist": "saaa / BGA : すずあ",
+            "genre": "MORNING ROUTINE",
+            "subtitles": [
+              "[SP ANOTHER]"
+            ],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 10
+          },
+          "noteCount": 1165,
+          "bpm": {
+            "init": 102,
+            "min": 102,
+            "median": 204,
+            "max": 204
+          },
+          "duration": 135.88235294117635,
+          "scratch": true,
+          "keys": "7K",
+          "file": "mg_SPA.bms"
+        },
+        {
+          "md5": "dfa37ee7db7f63038ade499ced19e687",
+          "info": {
+            "title": "MORNINGLOOM",
+            "artist": "saaa / BGA : すずあ",
+            "genre": "MORNING ROUTINE",
+            "subtitles": [
+              "[SP BEGINNER]"
+            ],
+            "subartists": [],
+            "difficulty": 1,
+            "level": 1
+          },
+          "noteCount": 111,
+          "bpm": {
+            "init": 102,
+            "min": 102,
+            "median": 204,
+            "max": 204
+          },
+          "duration": 135.88235294117635,
+          "scratch": true,
+          "keys": "7K",
+          "file": "mg_SPB.bms"
+        },
+        {
+          "md5": "1d3a437d0986979f99aceb309fa853d9",
+          "info": {
+            "title": "MORNINGLOOM",
+            "artist": "saaa / BGA : すずあ",
+            "genre": "MORNING ROUTINE",
+            "subtitles": [
+              "[SP HYPER]"
+            ],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 8
+          },
+          "noteCount": 785,
+          "bpm": {
+            "init": 102,
+            "min": 102,
+            "median": 204,
+            "max": 204
+          },
+          "duration": 135.88235294117635,
+          "scratch": true,
+          "keys": "7K",
+          "file": "mg_SPH.bms"
+        },
+        {
+          "md5": "ab95fa1caba36206206fc1c4f5da56ac",
+          "info": {
+            "title": "MORNINGLOOM",
+            "artist": "saaa / BGA : すずあ",
+            "genre": "MORNING ROUTINE",
+            "subtitles": [
+              "[SP NORMAL]"
+            ],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 4
+          },
+          "noteCount": 323,
+          "bpm": {
+            "init": 102,
+            "min": 102,
+            "median": 204,
+            "max": 204
+          },
+          "duration": 135.88235294117635,
+          "scratch": true,
+          "keys": "7K",
+          "file": "mg_SPN.bms"
+        }
+      ],
+      "title": "MORNINGLOOM",
+      "artist": "saaa",
+      "genre": "MORNING ROUTINE",
+      "bpm": 204,
+      "replaygain": "-9.95 dB",
+      "preview_offset": 18.235,
+      "preview_url": "bemuse-data/preview.mp3",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 1.176,
+      "song_url": "https://soundcloud.com/saaa_1/bms-saaa-morningloom-bofnt",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=142",
+      "youtube_url": "https://soundcloud.com/saaa_1",
+      "artist_url": "https://soundcloud.com/saaa_1",
+      "readme": "README.md",
+      "bmssearch_id": "gbkIjpGU_w5nce",
+      "added": "2023-10-09T00:00:00.000Z",
+      "id": "[saaa]morningloom",
+      "path": "https://bms-chart-master.github.io/songs/[saaa]morningloom/"
     }
   ]
 }
