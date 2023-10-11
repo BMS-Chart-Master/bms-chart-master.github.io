@@ -1,0 +1,130 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "f4757294d612de632ba7df0c26d6592d",
+      "info": {
+        "title": "Save The Night",
+        "artist": "litmus* feat. Nikki Simmons",
+        "genre": "EDM ANTHEM",
+        "subtitles": [
+          "[Normal]"
+        ],
+        "subartists": [
+          "bms/obj:litmus*"
+        ],
+        "difficulty": 2,
+        "level": 4
+      },
+      "noteCount": 397,
+      "bpm": {
+        "init": 128,
+        "min": 128,
+        "median": 128,
+        "max": 128
+      },
+      "duration": 135,
+      "scratch": true,
+      "keys": "7K",
+      "file": "litmus_savethenight_02.bms"
+    },
+    {
+      "md5": "3703dd1fff8b9319531867abafe9bec8",
+      "info": {
+        "title": "Save The Night",
+        "artist": "litmus* feat. Nikki Simmons",
+        "genre": "EDM ANTHEM",
+        "subtitles": [
+          "[Hyper]"
+        ],
+        "subartists": [
+          "bms/obj:litmus*"
+        ],
+        "difficulty": 3,
+        "level": 7
+      },
+      "noteCount": 726,
+      "bpm": {
+        "init": 128,
+        "min": 128,
+        "median": 128,
+        "max": 128
+      },
+      "duration": 135,
+      "scratch": true,
+      "keys": "7K",
+      "file": "litmus_savethenight_03.bms"
+    },
+    {
+      "md5": "a93db95ccb6d13b61869a2cae5a571b9",
+      "info": {
+        "title": "Save The Night",
+        "artist": "litmus* feat. Nikki Simmons",
+        "genre": "EDM ANTHEM",
+        "subtitles": [
+          "[Another]"
+        ],
+        "subartists": [
+          "bms/obj:litmus*"
+        ],
+        "difficulty": 4,
+        "level": 9
+      },
+      "noteCount": 999,
+      "bpm": {
+        "init": 128,
+        "min": 128,
+        "median": 128,
+        "max": 128
+      },
+      "duration": 135,
+      "scratch": true,
+      "keys": "7K",
+      "file": "litmus_savethenight_04.bms"
+    },
+    {
+      "md5": "a74b045a589c4cc5b0077bee64533c47",
+      "info": {
+        "title": "Save The Night",
+        "artist": "litmus* feat. Nikki Simmons",
+        "genre": "EDM ANTHEM",
+        "subtitles": [
+          "[Insane]"
+        ],
+        "subartists": [
+          "bms:litmus*/obj:BMS Chart Master"
+        ],
+        "difficulty": 5,
+        "level": 11
+      },
+      "noteCount": 1268,
+      "bpm": {
+        "init": 128,
+        "min": 128,
+        "median": 128,
+        "max": 128
+      },
+      "duration": 135,
+      "scratch": true,
+      "keys": "7K",
+      "file": "litmus_savethenight_05.bms"
+    }
+  ],
+  "title": "Save The Night",
+  "artist": "litmus* feat. Nikki Simmons",
+  "genre": "EDM ANTHEM",
+  "bpm": 128,
+  "replaygain": "-9.79 dB",
+  "preview_offset": 104.062,
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "https://soundcloud.com/litmus_star/save-the-night",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=142",
+  "youtube_url": "https://www.youtube.com/watch?v=LQNiFZVWXss",
+  "long_url": "https://litmus-star.bandcamp.com/track/save-the-night-club-mix",
+  "bmssearch_id": "0RuLIlqxagl7wK",
+  "artist_url": "https://soundcloud.com/litmus_star",
+  "readme": "README.md",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4"
+}

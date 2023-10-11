@@ -1,0 +1,142 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "269fe651e3d68e95371c968fb45a9534",
+      "info": {
+        "title": "レスキューしてよ！私のコイゴコロ",
+        "artist": "MiKaDo feat. 小春六花",
+        "genre": "Girl's Rock",
+        "subtitles": [
+          "[ANOTHER]"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 1884,
+      "bpm": {
+        "init": 190,
+        "min": 190,
+        "median": 190,
+        "max": 190
+      },
+      "duration": 155.3684210526316,
+      "scratch": true,
+      "keys": "7K",
+      "file": "SP_A.bms"
+    },
+    {
+      "md5": "3db8fe60a3d6235aa3c978549f15b8d9",
+      "info": {
+        "title": "レスキューしてよ！私のコイゴコロ",
+        "artist": "MiKaDo feat. 小春六花",
+        "genre": "Girl's Rock",
+        "subtitles": [
+          "[BEGINNER]"
+        ],
+        "subartists": [],
+        "difficulty": 1,
+        "level": 3
+      },
+      "noteCount": 447,
+      "bpm": {
+        "init": 190,
+        "min": 190,
+        "median": 190,
+        "max": 190
+      },
+      "duration": 155.3684210526316,
+      "scratch": true,
+      "keys": "7K",
+      "file": "SP_B.bms"
+    },
+    {
+      "md5": "7ea59eb0c7501620f1e9103027034702",
+      "info": {
+        "title": "レスキューしてよ！私のコイゴコロ",
+        "artist": "MiKaDo feat. 小春六花",
+        "genre": "Girl's Rock",
+        "subtitles": [
+          "[HYPER]"
+        ],
+        "subartists": [],
+        "difficulty": 3,
+        "level": 10
+      },
+      "noteCount": 1210,
+      "bpm": {
+        "init": 190,
+        "min": 190,
+        "median": 190,
+        "max": 190
+      },
+      "duration": 155.3684210526316,
+      "scratch": true,
+      "keys": "7K",
+      "file": "SP_H.bms"
+    },
+    {
+      "md5": "6cec724bed0fbac5d514f50f701d7c37",
+      "info": {
+        "title": "レスキューしてよ！私のコイゴコロ",
+        "artist": "MiKaDo feat. 小春六花",
+        "genre": "Girl's Rock",
+        "subtitles": [
+          "[INSANE]"
+        ],
+        "subartists": [],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 2428,
+      "bpm": {
+        "init": 190,
+        "min": 190,
+        "median": 190,
+        "max": 190
+      },
+      "duration": 155.3684210526316,
+      "scratch": true,
+      "keys": "7K",
+      "file": "SP_I.bms"
+    },
+    {
+      "md5": "15cc50714af20913851ee2792148c528",
+      "info": {
+        "title": "レスキューしてよ！私のコイゴコロ",
+        "artist": "MiKaDo feat. 小春六花",
+        "genre": "Girl's Rock",
+        "subtitles": [
+          "[NORMAL]"
+        ],
+        "subartists": [],
+        "difficulty": 2,
+        "level": 6
+      },
+      "noteCount": 711,
+      "bpm": {
+        "init": 190,
+        "min": 190,
+        "median": 190,
+        "max": 190
+      },
+      "duration": 155.3684210526316,
+      "scratch": true,
+      "keys": "7K",
+      "file": "SP_N.bms"
+    }
+  ],
+  "title": "レスキューしてよ！私のコイゴコロ",
+  "artist": "MiKaDo feat. 小春六花",
+  "genre": "Girl's Rock",
+  "bpm": 190,
+  "replaygain": "-7.86 dB",
+  "preview_offset": 73.263,
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "https://soundcloud.com/platinum_mkd/s6na3yj7l2gr",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=133&event=142",
+  "youtube_url": "https://www.youtube.com/watch?v=88vF2_tlxDk",
+  "bmssearch_id": "GgHkMgDbRkOCvS",
+  "readme": "README.md"
+}
