@@ -99,6 +99,10 @@
     {
       "url": "https://bms-chart-master.github.io/songs/[mikado]rescue/",
       "added": "2023-10-11"
+    },
+    {
+      "url": "https://bms-chart-master.github.io/songs/[nora]bbkkbkk/",
+      "added": "2023-10-16"
     }
   ],
   "songs": [
@@ -3829,6 +3833,100 @@
       "added": "2023-10-11T00:00:00.000Z",
       "id": "[mikado]rescue",
       "path": "https://bms-chart-master.github.io/songs/[mikado]rescue/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "6ba57c0187a93635a8caa93f7e2061fd",
+          "info": {
+            "title": "B.B.K.K.B.K.K.",
+            "artist": "nora2r / 出前",
+            "genre": "UK HARDCORE",
+            "subtitles": [
+              "ANOTHER"
+            ],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 11
+          },
+          "noteCount": 1247,
+          "bpm": {
+            "init": 170,
+            "min": 170,
+            "median": 170,
+            "max": 170
+          },
+          "duration": 125.6470588235294,
+          "scratch": true,
+          "keys": "7K",
+          "file": "a.bms"
+        },
+        {
+          "md5": "6a838dd761dff1884fad71944a026501",
+          "info": {
+            "title": "B.B.K.K.B.K.K.",
+            "artist": "nora2r / 出前",
+            "genre": "UK HARDCORE",
+            "subtitles": [
+              "HYPER"
+            ],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 7
+          },
+          "noteCount": 714,
+          "bpm": {
+            "init": 170,
+            "min": 170,
+            "median": 170,
+            "max": 170
+          },
+          "duration": 125.6470588235294,
+          "scratch": true,
+          "keys": "7K",
+          "file": "h.bms"
+        },
+        {
+          "md5": "0b8ff4ac23adc8da1ba6249b15769726",
+          "info": {
+            "title": "B.B.K.K.B.K.K.",
+            "artist": "nora2r / 出前",
+            "genre": "UK HARDCORE",
+            "subtitles": [
+              "NORMAL"
+            ],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 3
+          },
+          "noteCount": 376,
+          "bpm": {
+            "init": 170,
+            "min": 170,
+            "median": 170,
+            "max": 170
+          },
+          "duration": 125.6470588235294,
+          "scratch": true,
+          "keys": "7K",
+          "file": "n.bms"
+        }
+      ],
+      "title": "B.B.K.K.B.K.K.",
+      "artist": "nora2r",
+      "genre": "UK HARDCORE",
+      "bpm": 170,
+      "replaygain": "-14.58 dB",
+      "preview_offset": 34.411,
+      "preview_url": "bemuse-data/preview.mp3",
+      "bms_url": "http://nextreflection.net/music/2r_bbkkbkk/2r_bbkkbkk.rar",
+      "youtube_url": "https://www.youtube.com/watch?v=XHtQO0aLEKI",
+      "bmssearch_id": "3HeAXIjw2H6vNb",
+      "readme": "",
+      "added": "2023-10-16T00:00:00.000Z",
+      "id": "[nora]bbkkbkk",
+      "path": "https://bms-chart-master.github.io/songs/[nora]bbkkbkk/"
     }
   ]
 }
